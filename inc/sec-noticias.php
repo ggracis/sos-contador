@@ -1,6 +1,6 @@
 <!-- Noticias
 					============================================= -->
-    <section id="noticias" class="page-section p-0">
+    <section id="novedades" class="page-section p-0">
 
         <div class="section mb-0">
         <h2 class="text-center text-uppercase font-weight-light ls3 font-body">Ultimas noticias</h2>

@@ -22,8 +22,9 @@
 
 							<ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
 								<li class="menu-item">
-									<a href="index.php" class="menu-link" data-href="#wrapper"><div>Home</div></a>
+									<a href="#" class="menu-link" data-href="#wrapper"><div>Home</div></a>
 								</li>
+							
 								<li class="menu-item">
 									<a href="nosotros.php" class="menu-link"><div>Nosotros</div></a>
 								</li>
