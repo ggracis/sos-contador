@@ -25,7 +25,7 @@ La estructura de navegación es:<br>
 -- Contacto (igual al otro)<br>
 -- Footer (igual al otro)<br><br>
 
-Web en git > https://ggracis.github.io/sos-contador/<br>
+Web en git > https://newdanger.com.ar/sos-contador/<br>
 
 ### 1.1 Equipo
 Enzo<br>
