@@ -1,0 +1,103 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: sos Contador - web version majo.ai
+Modo de color: Color RGB
+Perfil de color: Adobe RGB (1998)
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 1920 px x 5453 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+DIN Next LT Pro Bold Condensed (OTF)
+Montserrat Regular (OTF)
+Montserrat Italic (OTF)
+Montserrat SemiBold (OTF)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+
+/Usuarios/majogalanda/Escritorio/Trabajo/SOS - Contador /Diseno visual/Editables/sos Contador - web version majo_Carpeta/Links/Captura de Pantalla 2020-09-18 a la(s) 09.50.50.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9485K, 2850 por 852 p’xeles
+Dimensiones: 1917 por 573,082 puntos 
+Resoluci—n: 107,042 por 107,042 p’xeles por pulgada
+
+
+/Usuarios/majogalanda/Escritorio/Trabajo/SOS - Contador /Diseno visual/Editables/sos Contador - web version majo_Carpeta/Links/Captura de Pantalla 2020-09-18 a la(s) 09.50.58.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 7191K, 2850 por 646 p’xeles
+Dimensiones: 1922 por 435,653 puntos 
+Resoluci—n: 106,764 por 106,764 p’xeles por pulgada
+
+
+/Usuarios/majogalanda/Escritorio/Trabajo/SOS - Contador /Diseno visual/Editables/sos Contador - web version majo_Carpeta/Links/Captura de Pantalla 2020-09-18 a la(s) 09.35.52.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1539K, 684 por 576 p’xeles
+Dimensiones: 418,348 por 352,293 puntos 
+Resoluci—n: 117,72 por 117,72 p’xeles por pulgada
+
+
+/Usuarios/majogalanda/Escritorio/Trabajo/SOS - Contador /Diseno visual/Editables/sos Contador - web version majo_Carpeta/Links/Captura de Pantalla 2020-09-18 a la(s) 09.35.52.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1539K, 684 por 576 p’xeles
+Dimensiones: 436,426 por 367,517 puntos 
+Resoluci—n: 112,844 por 112,844 p’xeles por pulgada
+
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Usuarios/majogalanda/Escritorio/Trabajo/SOS - Contador /Diseno visual/Editables/imagenes/MacBook Pro 16.psd
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 114257K, 6500 por 4500 p’xeles
+Dimensiones: 780,222 por 540,154 puntos 
+Resoluci—n: 599,829 por 599,829 p’xeles por pulgada
+
+
+/Usuarios/majogalanda/Escritorio/Trabajo/SOS - Contador /Diseno visual/Editables/imagenes/Mockup.psd
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 73242K, 5000 por 3750 p’xeles
+Dimensiones: 1200 por 900 puntos 
+Resoluci—n: 300 por 300 p’xeles por pulgada
+
+
+/Usuarios/majogalanda/Escritorio/Captura de Pantalla 2020-09-18 a la(s) 09.49.52
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 14029K, 2846 por 1262 p’xeles
+Dimensiones: 1930 por 855,819 puntos 
+Resoluci—n: 106,172 por 106,172 p’xeles por pulgada
