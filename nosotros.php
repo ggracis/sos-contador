@@ -20,11 +20,14 @@
         <?php include 'inc/sec-nosotros.php';?>
         <?php include 'inc/sec-nuestro-adn.php';?>
         <?php include 'inc/sec-equipo.php';?>
-		<?php include 'inc/sec-contacto.php';?>					
+		<?php include 'inc/sec-contacto.php';?>		<!-- Bloque foto fondo -->			
+		<?php include 'inc/sec-red-profesional.php';?>	 <!-- logos empresas -->
+														<!-- barra negra http://themes.semicolonweb.com/html/canvas/index.html -->
+		
 
 	    <!-- Footer
 		============================================= -->
-        <?php include 'inc/footer.php';?>
+        <?php include 'inc/footer.php';?> 
         <!-- #slider end -->
 		
 

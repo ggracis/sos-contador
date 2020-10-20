@@ -1,13 +1,13 @@
 <?php include 'inc/head.php';?>
 
-<body class="stretched">
+<body class="stretched dark">
 
 	<!-- Contenedor
 	============================================= -->
 	<div id="wrapper" class="clearfix">
 
 		<!-- Header -->
-        <?php include 'inc/header.php';?>
+        <?php include 'inc/header.php';?> 
 		<!-- #header end -->
 
 		<!-- Slider
@@ -18,14 +18,17 @@
 		<!-- Contenido
 		============================================= -->
         <?php include 'inc/sec-funcionalidades.php';?> <!-- http://themes.semicolonweb.com/html/canvas/index-corporate.html -->
-        <?php include 'inc/sec-planes.php';?> <!-- http://themes.semicolonweb.com/html/canvas/services-2.html -->
-        <?php include 'inc/sec-noticias.php';?>
-        <?php include 'inc/sec-clientes.php';?>
-		<?php include 'inc/sec-contacto.php';?>					
+                                             <!-- Como funciona http://themes.semicolonweb.com/html/canvas/index-corporate.html-->
+                                            <!-- CONOCÉ NUESTRO SISTEMA http://themes.semicolonweb.com/html/canvas/services-2.html -->
+                                             <!-- Empeza hoy  http://themes.semicolonweb.com/html/canvas/index-corporate.html -->
+        <?php include 'inc/sec-planes.php';?>    <!-- Planes  http://themes.semicolonweb.com/html/canvas/pricing.html -->                                  
+        <?php include 'inc/sec-clientes.php';?> <!-- Clientes http://themes.semicolonweb.com/html/canvas/testimonials-twitter.html -->
+        <?php include 'inc/sec-noticias.php';?> <!-- Noticias http://themes.semicolonweb.com/html/canvas/index.html -->
+                                               <!-- Conoce nuestros planes http://themes.semicolonweb.com/html/canvas/index.html -->				
 
 	    <!-- Footer
 		============================================= -->
-        <?php include 'inc/footer.php';?>
+        <?php include 'inc/footer.php';?> <!-- http://themes.semicolonweb.com/html/canvas/index-corporate.html --> <!-- http://themes.semicolonweb.com/html/canvas/footer-2.html#footer -->
         <!-- #slider end -->
 		
 
