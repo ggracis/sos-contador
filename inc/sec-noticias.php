@@ -2,6 +2,7 @@
 					============================================= -->
     <section id="novedades" class="page-section p-0">
 
+   
         <div class="section mb-0">
         <h2 class="text-center text-uppercase font-weight-light ls3 font-body">Ultimas noticias</h2>
         <div class="container clearfix">
@@ -88,5 +89,11 @@
 
             </div>
         </div>
+      
+        <a href="portfolio.html" class="button button-full button-dark center text-right bottommargin-lg">
+					<div class="container clearfix">
+						Probando el div Oscuro <strong>Leer Mas</strong> <i class="icon-caret-right" style="top:4px;"></i>
+					</div>
+				</a>
     </section>
 <!-- #Noticias end -->
