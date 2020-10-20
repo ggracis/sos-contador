@@ -90,7 +90,7 @@
             </div>
         </div>
       
-        <a href="portfolio.html" class="button button-full button-dark center text-right bottommargin-lg">
+        <a href="portfolio.html" class="button button-full button- center text-right bottommargin-lg">
 					<div class="container clearfix">
 						Probando el div Oscuro <strong>Leer Mas</strong> <i class="icon-caret-right" style="top:4px;"></i>
 					</div>
