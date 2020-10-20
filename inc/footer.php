@@ -3,75 +3,189 @@
     <footer id="footer" class="dark border-0">
 
         <div class="container center">
-            <div class="footer-widgets-wrap">
+        <div class="row col-mb-50">
+						<div class="col-md-6 col-lg-4">
 
-                <div class="row mx-auto clearfix">
+							<div class="widget clearfix">
 
-                    <div class="col-lg-4">
+								<img src="images/footer-widget-logo.png" alt="Image" class="footer-logo">
 
-                        <div class="widget clearfix">
-                            <h4>Site Links</h4>
+								<p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards with a Retina &amp; Responsive Approach. Browse the amazing Features this template offers.</p>
 
-                            <ul class="list-unstyled footer-site-links mb-0">
-                                <li><a href="#" data-scrollto="#wrapper" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Top</a></li>
-                                <li><a href="#" data-scrollto="#section-about" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Nosotros</a></li>
-                                <li><a href="#" data-scrollto="#section-works" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Works</a></li>
-                                <li><a href="#" data-scrollto="#section-services" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Services</a></li>
-                                <li><a href="#" data-scrollto="#section-blog" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Blog</a></li>
-                                <li><a href="#" data-scrollto="#section-contact" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Contacto</a></li>
-                            </ul>
-                        </div>
+								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
+									<address>
+										<strong>Headquarters:</strong><br>
+										795 Folsom Ave, Suite 600<br>
+										San Francisco, CA 94107<br>
+									</address>
+									<abbr title="Phone Number"><strong>Phone:</strong></abbr> (1) 8547 632521<br>
+									<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
+									<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
+								</div>
 
-                    </div>
+							</div>
 
-                    <div class="col-lg-4">
+						</div>
 
-                        <div class="widget subscribe-widget clearfix" data-loader="button">
-                            <h4>Suscribase</h4>
+						<div class="col-md-6 col-lg-4">
 
-                            <div class="widget-subscribe-form-result"></div>
-                            <form id="widget-subscribe-form" action="include/subscribe.php" method="post" class="mb-0">
-                                <input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control form-control-lg not-dark required email" placeholder="Your Email Address">
-                                <button class="button button-border button-circle button-light topmargin-sm" type="submit">Suscribite ahora</button>
-                            </form>
-                        </div>
+							<div class="widget clearfix">
+								<h4>Client Testimonials</h4>
 
-                    </div>
+								<div class="fslider testimonial no-image bg-transparent border-0 shadow-none p-0" data-animation="slide" data-arrows="false">
+									<div class="flexslider">
+										
+									<div class="flex-viewport" style="overflow: hidden; position: relative; height: 120px;"><div class="slider-wrap" style="width: 1000%; transition-duration: 0s; transform: translate3d(-330px, 0px, 0px);"><div class="slide clone" aria-hidden="true" style="width: 330px; margin-right: 0px; float: left; display: block;">
+												<div class="testi-image">
+													<a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails" draggable="false"></a>
+												</div>
+												<div class="testi-content">
+													<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+													<div class="testi-meta">
+														John Doe
+														<span>XYZ Inc.</span>
+													</div>
+												</div>
+											</div>
+											<div class="slide flex-active-slide" style="width: 330px; margin-right: 0px; float: left; display: block;" data-thumb-alt="">
+												<div class="testi-image">
+													<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails" draggable="false"></a>
+												</div>
+												<div class="testi-content">
+													<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+													<div class="testi-meta">
+														Steve Jobs
+														<span>Apple Inc.</span>
+													</div>
+												</div>
+											</div>
+											<div class="slide" data-thumb-alt="" style="width: 330px; margin-right: 0px; float: left; display: block;">
+												<div class="testi-image">
+													<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails" draggable="false"></a>
+												</div>
+												<div class="testi-content">
+													<p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+													<div class="testi-meta">
+														Collis Ta'eed
+														<span>Envato Inc.</span>
+													</div>
+												</div>
+											</div>
+											<div class="slide" data-thumb-alt="" style="width: 330px; margin-right: 0px; float: left; display: block;">
+												<div class="testi-image">
+													<a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails" draggable="false"></a>
+												</div>
+												<div class="testi-content">
+													<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+													<div class="testi-meta">
+														John Doe
+														<span>XYZ Inc.</span>
+													</div>
+												</div>
+											</div>
+										<div class="slide clone" style="width: 330px; margin-right: 0px; float: left; display: block;" aria-hidden="true">
+												<div class="testi-image">
+													<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails" draggable="false"></a>
+												</div>
+												<div class="testi-content">
+													<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+													<div class="testi-meta">
+														Steve Jobs
+														<span>Apple Inc.</span>
+													</div>
+												</div>
+											</div></div></div><ol class="flex-control-nav flex-control-paging"><li><a href="#" class="flex-active">1</a></li><li><a href="#">2</a></li><li><a href="#">3</a></li></ol></div>
+								</div>
 
-                    <div class="col-lg-4">
+							</div>
 
-                        <div class="widget clearfix">
-                            <h4>Contact</h4>
+							<div class="widget clearfix">
 
-                            <p class="lead">795 Folsom Ave, Suite 600<br>San Francisco, CA 94107</p>
+								<a href="#" class="social-icon si-small si-rounded si-facebook">
+									<i class="icon-facebook"></i>
+									<i class="icon-facebook"></i>
+								</a>
 
-                            <div class="center topmargin-sm">
-                                <a href="#" class="social-icon inline-block border-0 si-small si-facebook" title="Facebook">
-                                    <i class="icon-facebook"></i>
-                                    <i class="icon-facebook"></i>
-                                </a>
-                                <a href="#" class="social-icon inline-block border-0 si-small si-twitter" title="Twitter">
-                                    <i class="icon-twitter"></i>
-                                    <i class="icon-twitter"></i>
-                                </a>
-                                <a href="#" class="social-icon inline-block border-0 si-small si-github" title="Github">
-                                    <i class="icon-github"></i>
-                                    <i class="icon-github"></i>
-                                </a>
-                                <a href="#" class="social-icon inline-block border-0 si-small si-pinterest" title="Pinterest">
-                                    <i class="icon-pinterest"></i>
-                                    <i class="icon-pinterest"></i>
-                                </a>
-                            </div>
-                        </div>
+								<a href="#" class="social-icon si-small si-rounded si-twitter">
+									<i class="icon-twitter"></i>
+									<i class="icon-twitter"></i>
+								</a>
 
-                    </div>
+								<a href="#" class="social-icon si-small si-rounded si-gplus">
+									<i class="icon-gplus"></i>
+									<i class="icon-gplus"></i>
+								</a>
 
-                </div>
+								<a href="#" class="social-icon si-small si-rounded si-pinterest">
+									<i class="icon-pinterest"></i>
+									<i class="icon-pinterest"></i>
+								</a>
 
-            </div>
-        </div>
+								<a href="#" class="social-icon si-small si-rounded si-vimeo">
+									<i class="icon-vimeo"></i>
+									<i class="icon-vimeo"></i>
+								</a>
 
+								<a href="#" class="social-icon si-small si-rounded si-github">
+									<i class="icon-github"></i>
+									<i class="icon-github"></i>
+								</a>
+
+								<a href="#" class="social-icon si-small si-rounded si-yahoo">
+									<i class="icon-yahoo"></i>
+									<i class="icon-yahoo"></i>
+								</a>
+
+								<a href="#" class="social-icon si-small si-rounded si-linkedin">
+									<i class="icon-linkedin"></i>
+									<i class="icon-linkedin"></i>
+								</a>
+
+							</div>
+
+						</div>
+
+						<div class="col-md-6 col-lg-4">
+
+							<div class="widget quick-contact-widget form-widget clearfix">
+
+								<h4>Send Message</h4>
+
+								<div class="form-result"></div>
+
+								<form id="quick-contact-form" name="quick-contact-form" action="include/form.php" method="post" class="quick-contact-form mb-0" novalidate="novalidate">
+
+									<div class="form-process">
+										<div class="css3-spinner">
+											<div class="css3-spinner-scaler"></div>
+										</div>
+									</div>
+
+									<div class="input-group mx-auto">
+										<div class="input-group-prepend">
+											<div class="input-group-text"><i class="icon-user"></i></div>
+										</div>
+										<input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Full Name">
+									</div>
+									<div class="input-group mx-auto">
+										<div class="input-group-prepend">
+											<div class="input-group-text"><i class="icon-email2"></i></div>
+										</div>
+										<input type="text" class="required form-control email" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Email Address">
+									</div>
+									<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Message"></textarea>
+									<input type="text" class="d-none" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="">
+									<input type="hidden" name="prefix" value="quick-contact-form-">
+									<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger m-0" value="submit">Send Email</button>
+
+								</form>
+
+							</div>
+
+						</div>
+					</div>
+            
+        
         <div id="copyrights">
             <div class="container center clearfix">
                 Copyrights Canvas 2020 | All Rights Reserved
