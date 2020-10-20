@@ -90,10 +90,10 @@
             </div>
         </div>
       
-        <a href="sec-planes.php" class="button button-full button-clear center text-right bottommargin-lg">
+        <div class="button button-full button-clear center text-right bottommargin-lg">
 					<div class="container clearfix">
-                    Más de 8.000 profesionales ya la están utilizando. Empezá hoy! <strong>Nuestos planes</strong> <i class="icon-caret-right" style="top:4px;"></i>
+                    Más de 8.000 profesionales ya la están utilizando. Empezá hoy! <a href="sec-planes.php"><strong>Nuestos planes</strong></a> <i class="icon-caret-right" style="top:4px;"></i>
 					</div>
-				</a>
+        </div>
     </section>
 <!-- #Noticias end -->
