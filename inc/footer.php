@@ -41,7 +41,7 @@
                     <div class="col-lg-4">
 
                         <div class="widget clearfix">
-                            <h4>Contacto</h4>
+                            <h4>Contact</h4>
 
                             <p class="lead">795 Folsom Ave, Suite 600<br>San Francisco, CA 94107</p>
 
