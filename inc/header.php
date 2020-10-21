@@ -18,7 +18,7 @@
 
 						<!-- Primary Navigation
 						============================================= -->
-						<nav class="primary-menu">
+						<nav class="primary-menu ml-auto">
 
 							<ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
 								<li class="menu-item">
