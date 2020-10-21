@@ -5,6 +5,10 @@
         <div class="section m-0">
             <div class="container clearfix">
                 <div class="mx-auto center" style="max-width: 900px;">
+
+                    <div class="fancy-title title-border title-center">
+						<h3>Planes mensuales</h3>
+					</div>
                 <table class="table table-hover table-comparison mb-0">
 					  <thead>
 						<tr>
