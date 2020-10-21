@@ -90,10 +90,13 @@
             </div>
         </div>
       
-        <div class="button button-full button-clear center text-right bottommargin-lg">
-					<div class="container clearfix">
-                    Más de 8.000 profesionales ya la están utilizando. Empezá hoy! <a href="sec-planes.php"><strong>Nuestos planes</strong></a> <i class="icon-caret-right" style="top:4px;"></i>
-					</div>
-        </div>
+
+        <div class="section dark m-0">
+                            <div class="mx-auto center" style="max-width: 900px;">
+                                <h2 class="mb-0 font-weight-light ls1">Más de 8.000 profesionales ya la están utilizando. Empezá hoy! <a href="sec-planes.php" data-scrollto="#template-contactform" data-offset="140" data-easing="easeInOutExpo" data-speed="1250" class="button button-border button-circle button-light button-large my-0" style="position: relative; top: -3px;">Nuestos planes</a></h2>
+                            </div>
+                        </div>
+
+        
     </section>
 <!-- #Noticias end -->
