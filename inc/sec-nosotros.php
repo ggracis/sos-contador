@@ -1,7 +1,8 @@
 	<!-- Nosotros
 		============================================= -->
-		<section id="nosotros">
-		<class="page-section section dark m-0 border-0 overflow-hidden" style="background-color: #222;" data-onepage-settings="{&quot;offset&quot;:0,&quot;speed&quot;:1250,&quot;easing&quot;:&quot;easeOutQuad&quot;}">
+		<section id="nosotros" class="page-section section dark m-0 border-0 overflow-hidden" style="background-color: #222;" data-onepage-settings="{&quot;offset&quot;:0,&quot;speed&quot;:1250,&quot;easing&quot;:&quot;easeOutQuad&quot;}">
+		
+		
 	
 <div class="heading-block center bottommargin-lg">
 	<h2>NOSOTROS</h2>	
