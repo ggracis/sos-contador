@@ -7,12 +7,12 @@
 	<div id="wrapper" class="clearfix">
 
 		<!-- Header -->
-        <?php include 'inc/header.php';?>
+        <?php include 'inc/header.html';?>
 		<!-- #header end -->
 
 		<!-- Slider
 		============================================= -->
-        <?php include 'inc/sec-slider-nosotros.php';?>
+        <?php include 'inc/sec-slider.html';?>
         <!-- #slider end -->
 
 		<!-- Contenido
