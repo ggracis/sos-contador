@@ -30,7 +30,7 @@
 
 	    <!-- Footer
 		============================================= -->
-        <?php include 'inc/footer.php';?> <!-- http://themes.semicolonweb.com/html/canvas/index-corporate.html --> <!-- http://themes.semicolonweb.com/html/canvas/footer-2.html#footer -->
+        <?php include 'inc/footer2.php';?> <!-- http://themes.semicolonweb.com/html/canvas/index-corporate.html --> <!-- http://themes.semicolonweb.com/html/canvas/footer-2.html#footer -->
         <!-- #slider end -->
 		
 

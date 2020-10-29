@@ -26,7 +26,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 									</address>
 									<abbr title="Phone Number"><strong>Telefono:</strong></abbr> (1) 8547 632521<br>
 									<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
-									<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
+									<abbr title="Email Address"><strong>Email:</strong></abbr> info@sos-contador.com.ar
 								</div>
 
 							</div>
@@ -107,17 +107,17 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 
 							<div class="widget clearfix">
 
-								<a href="#" class="social-icon si-small si-rounded si-facebook">
+								<a href="https://www.facebook.com/SOScontador/" class="social-icon si-small si-rounded si-facebook">
 									<i class="icon-facebook"></i>
 									<i class="icon-facebook"></i>
 								</a>
 
-								<a href="#" class="social-icon si-small si-rounded si-twitter">
+								<a href="https://twitter.com/soscontador" class="social-icon si-small si-rounded si-twitter">
 									<i class="icon-twitter"></i>
 									<i class="icon-twitter"></i>
 								</a>
 
-								<a href="#" class="social-icon si-small si-rounded si-gplus">
+								<a href="https://www.instagram.com/soscontador/" class="social-icon si-small si-rounded si-gplus">
 									<i class="icon-gplus"></i>
 									<i class="icon-gplus"></i>
 								</a>
