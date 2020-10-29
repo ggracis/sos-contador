@@ -2,6 +2,9 @@
 		============================================= -->
 		<section id="nuestro-adn">
 		<div class="container clearfix">
+				<div class="heading-block center bottommargin-lg">
+				<h2>NUESTRO ADN</h2>	
+				</div>
 
 <div class="row col-mb-50">
 	<div class="col-sm-6 col-lg-4">

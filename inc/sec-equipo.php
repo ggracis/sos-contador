@@ -2,15 +2,12 @@
 		============================================= -->
 		<section id="equipo">
 
-		<div class="heading-block center bottommargin-lg">
-		<h2>NUESTRO ADN</h2>	
-		</div>
-
+		
 		<div class="section">
 					<div class="container clearfix">
 
 						<div class="heading-block topmargin-sm center">
-							<h3>Meet Our Team</h3>
+							<h3>NUESTRO EQUIPO</h3>
 						</div>
 
 						<div class="row">
