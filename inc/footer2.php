@@ -12,7 +12,7 @@
 
 							<div class="widget clearfix">
 
-								<img src="images/footer-widget-logo.png" alt="Image" class="footer-logo">
+								<img src="images/sos-contador_157x76.png" alt="Image" class="footer-logo">
 
 								<p>Este sistema, pensado por contadores para contadores, cuenta
 con una permanente actualización y desarrolla nuevas funcionalidades a diario.
