@@ -1,6 +1,6 @@
 <!-- Footer
 		============================================= -->
-    <footer id="footer" class="dark border-0">
+    <footer id="footer" class="dark border-0" style="background-color: #282828;">
 
         <div class="container center">
         <div class="row col-mb-50">

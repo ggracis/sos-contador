@@ -3,10 +3,10 @@
 <section id="novedades" class="page-section p-0">
 
 
-    <div class="section mb-0">
+    <div class="section mb-0 pb-0">
         <h2 class="text-center text-uppercase font-weight-light ls3 font-body">ÚLTIMAS NOVEDADES</h2>
-        <p>CONOCÉ TODAS NUESTRAS NOTICIAS Y ACTUALIZACIONES</p>
-        <div class="container clearfix">
+        <p class="text-center text-uppercase font-weight-light ls3 font-body">CONOCÉ TODAS NUESTRAS NOTICIAS Y ACTUALIZACIONES</p>
+        <div class="container col-mb-50 mb-0">
 
             <div class="col-12">
 
@@ -18,7 +18,7 @@
                     <div class="entry col-sm-6 col-md-4">
                         <div class="grid-inner">
                             <div class="entry-image">
-                                <a href="#"><img src="images/magazine/thumb/13.jpg" alt="Image"></a>
+                                <a href="#"><img src="images/services/3.jpg" alt="Image"></a>
                             </div>
                             <div class="entry-title title-xs nott">
                                 <h3><a href="blog-single.html">MIT's new robot glove can give you extra fingers</a></h3>
@@ -39,7 +39,7 @@
                     <div class="entry col-sm-6 col-md-4">
                         <div class="grid-inner">
                             <div class="entry-image">
-                                <a href="#"><img src="images/magazine/thumb/3.jpg" alt="Image"></a>
+                                <a href="#"><img src="images/services/2.jpg" alt="Image"></a>
                             </div>
                             <div class="entry-title title-xs nott">
                                 <h3><a href="blog-single.html">Beyonce Dropped A '50 Shades Of Grey', Teaser On
@@ -61,7 +61,7 @@
                     <div class="entry col-sm-6 col-md-4">
                         <div class="grid-inner">
                             <div class="entry-image">
-                                <a href="#"><img src="images/magazine/thumb/4.jpg" alt="Image"></a>
+                                <a href="#"><img src="images/services/1.jpg" alt="Image"></a>
                             </div>
                             <div class="entry-title title-xs nott">
                                 <h3><a href="blog-single.html">A Baseball Team Blew Up A Bunch Of Justin Bieber And
@@ -86,12 +86,12 @@
         </div>
 
 
-        <div class="section dark m-0">
+        <div class="section dark m-0" style="background-color: #353535;">
             <div class="mx-auto center" style="max-width: 1280px;">
-                <p>Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!</strong>
+                Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!</strong>
                     <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
-                        class="button button-border button-rounded button-fill button-white button-light"
-                        style="position: relative; top: -3px;">Conocé nuestros planes</a></p>
+                        class="button button-border button-rounded button-light"
+                        style="position: relative; top: -3px;">Conocé nuestros planes</a>
             </div>
         </div>
 
