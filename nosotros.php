@@ -23,7 +23,7 @@
 		<?php include 'inc/sec-contacto.php';?>		<!-- Bloque foto fondo -->			
 		<?php include 'inc/sec-red-profesional.php';?>	 <!-- logos empresas -->
 														<!-- barra negra http://themes.semicolonweb.com/html/canvas/index.html -->
-		
+		<?php include 'inc/sec-noticias.php';?>	
 
 	    <!-- Footer
 		============================================= -->
