@@ -1,18 +1,13 @@
 <!-- Footer
 		============================================= -->
-	<footer id="footer" class="dark border-0" style="background-color: #282828;">
-	
-	<div class="section dark m-0" style="background-color: #353535;">
-            <div class="mx-auto center" style="max-width: 1280px;">
-                Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!</strong>
-                    <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
-                        class="button button-border button-rounded button-light"
-                        style="position: relative; top: -3px;">Conocé nuestros planes</a>
-            </div>
-        </div>
 
-        <div class="container center">
-        <div class="row col-mb-50">
+<footer id="footer" class="dark">
+			<div class="container">
+				<!-- Footer Widgets
+				============================================= -->
+				<div class="footer-widgets-wrap">
+
+					<div class="row col-mb-50">
 						<div class="col-md-6 col-lg-4">
 
 							<div class="widget clearfix">
@@ -23,11 +18,11 @@
 
 								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 									<address>
-										<strong>Dirección:</strong><br>
+										<strong>Headquarters:</strong><br>
 										795 Folsom Ave, Suite 600<br>
 										San Francisco, CA 94107<br>
 									</address>
-									<abbr title="Phone Number"><strong>Telefono:</strong></abbr> (1) 8547 632521<br>
+									<abbr title="Phone Number"><strong>Phone:</strong></abbr> (1) 8547 632521<br>
 									<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
 									<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
 								</div>
@@ -39,12 +34,12 @@
 						<div class="col-md-6 col-lg-4">
 
 							<div class="widget clearfix">
-								<h4>Testimonios de Clientes</h4>
+								<h4>Client Testimonials</h4>
 
 								<div class="fslider testimonial no-image bg-transparent border-0 shadow-none p-0" data-animation="slide" data-arrows="false">
 									<div class="flexslider">
 										
-									<div class="flex-viewport" style="overflow: hidden; position: relative; height: 10px;"><div class="slider-wrap" style="width: 1000%; transition-duration: 0s; transform: translate3d(-330px, 0px, 0px);"><div class="slide clone" aria-hidden="true" style="width: 330px; margin-right: 0px; float: left; display: block;">
+									<div class="flex-viewport" style="overflow: hidden; position: relative; height: 97px;"><div class="slider-wrap" style="width: 1000%; transition-duration: 0s; transform: translate3d(-350px, 0px, 0px);"><div class="slide clone" aria-hidden="true" style="width: 350px; margin-right: 0px; float: left; display: block;">
 												<div class="testi-image">
 													<a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
@@ -56,7 +51,7 @@
 													</div>
 												</div>
 											</div>
-											<div class="slide flex-active-slide" style="width: 330px; margin-right: 0px; float: left; display: block;" data-thumb-alt="">
+											<div class="slide flex-active-slide" style="width: 350px; margin-right: 0px; float: left; display: block;" data-thumb-alt="">
 												<div class="testi-image">
 													<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
@@ -68,7 +63,7 @@
 													</div>
 												</div>
 											</div>
-											<div class="slide" data-thumb-alt="" style="width: 330px; margin-right: 0px; float: left; display: block;">
+											<div class="slide" data-thumb-alt="" style="width: 350px; margin-right: 0px; float: left; display: block;">
 												<div class="testi-image">
 													<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
@@ -80,7 +75,7 @@
 													</div>
 												</div>
 											</div>
-											<div class="slide" data-thumb-alt="" style="width: 330px; margin-right: 0px; float: left; display: block;">
+											<div class="slide" data-thumb-alt="" style="width: 350px; margin-right: 0px; float: left; display: block;">
 												<div class="testi-image">
 													<a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
@@ -92,7 +87,7 @@
 													</div>
 												</div>
 											</div>
-										<div class="slide clone" style="width: 330px; margin-right: 0px; float: left; display: block;" aria-hidden="true">
+										<div class="slide clone" style="width: 350px; margin-right: 0px; float: left; display: block;" aria-hidden="true">
 												<div class="testi-image">
 													<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
@@ -110,19 +105,19 @@
 
 							<div class="widget clearfix">
 
-								<a href="https://www.facebook.com/SOScontador/" class="social-icon si-small si-rounded si-facebook">
+								<a href="#" class="social-icon si-small si-rounded si-facebook">
 									<i class="icon-facebook"></i>
 									<i class="icon-facebook"></i>
 								</a>
 
-								<a href="https://twitter.com/soscontador" class="social-icon si-small si-rounded si-twitter">
+								<a href="#" class="social-icon si-small si-rounded si-twitter">
 									<i class="icon-twitter"></i>
 									<i class="icon-twitter"></i>
 								</a>
 
-								<a href="https://www.instagram.com/soscontador/" class="social-icon si-small si-rounded si-instagram">
-									<i class="icon-instagram"></i>
-									<i class="icon-instagram"></i>
+								<a href="#" class="social-icon si-small si-rounded si-gplus">
+									<i class="icon-gplus"></i>
+									<i class="icon-gplus"></i>
 								</a>
 
 								<a href="#" class="social-icon si-small si-rounded si-pinterest">
@@ -158,7 +153,7 @@
 
 							<div class="widget quick-contact-widget form-widget clearfix">
 
-								<h4>Enviar Mensaje</h4>
+								<h4>Send Message</h4>
 
 								<div class="form-result"></div>
 
@@ -174,18 +169,18 @@
 										<div class="input-group-prepend">
 											<div class="input-group-text"><i class="icon-user"></i></div>
 										</div>
-										<input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Nombre">
+										<input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Full Name">
 									</div>
 									<div class="input-group mx-auto">
 										<div class="input-group-prepend">
 											<div class="input-group-text"><i class="icon-email2"></i></div>
 										</div>
-										<input type="text" class="required form-control email" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Dirección de Email">
+										<input type="text" class="required form-control email" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Email Address">
 									</div>
-									<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Mensaje"></textarea>
+									<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Message"></textarea>
 									<input type="text" class="d-none" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="">
 									<input type="hidden" name="prefix" value="quick-contact-form-">
-									<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger m-0" value="submit">Enviar</button>
+									<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger m-0" value="submit">Send Email</button>
 
 								</form>
 
@@ -193,13 +188,29 @@
 
 						</div>
 					</div>
-            
-        
-        <div id="copyrights">
-            <div class="container center clearfix">
-                Copyrights Canvas 2020 | All Rights Reserved
-            </div>
-        </div>
 
-    </footer>
-<!-- #footer end -->
+				</div><!-- .footer-widgets-wrap end -->
+			</div>
+
+			<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
+				<div class="container">
+
+					<div class="row justify-content-between">
+						<div class="col-12 col-lg-auto text-center text-lg-left">
+							<p class="mb-3">Copyrights © 2020 All Rights Reserved by Canvas Inc.</p>
+						</div>
+
+						<div class="col-12 col-lg-auto text-center text-lg-right">
+							<div class="copyrights-menu copyright-links mb-0">
+								<a href="#">Home</a>/<a href="#">About</a>/<a href="#">Features</a>/<a href="#">Portfolio</a>/<a href="#">FAQs</a>/<a href="#">Contact</a>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div><!-- #copyrights end -->
+        </footer>
+        
+        <!-- #footer end -->
