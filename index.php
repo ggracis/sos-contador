@@ -20,10 +20,10 @@
         <?php include 'inc/sec-como_funciona.html';?> <!-- Como funciona http://themes.semicolonweb.com/html/canvas/index-corporate.html-->
         <?php include 'inc/sec-funcionalidades.html';?> <!-- http://themes.semicolonweb.com/html/canvas/index-corporate.html -->
         <?php include 'inc/sec-empeza_hoy.html';?> <!-- Empeza hoy  http://themes.semicolonweb.com/html/canvas/index-corporate.html -->
-        <?php include 'inc/sec-planes.php';?>    <!-- Planes  http://themes.semicolonweb.com/html/canvas/pricing.html -->                                  
-        <?php include 'inc/sec-clientes.php';?> <!-- Clientes http://themes.semicolonweb.com/html/canvas/testimonials-twitter.html -->
+        <?php include 'inc/sec-planes.html';?>    <!-- Planes  http://themes.semicolonweb.com/html/canvas/pricing.html -->                                  
+        <?php include 'inc/sec-clientes.html';?> <!-- Clientes http://themes.semicolonweb.com/html/canvas/testimonials-twitter.html -->
         <?php include 'inc/sec-noticias.php';?> <!-- Noticias http://themes.semicolonweb.com/html/canvas/index.html -->
-                                               <!-- Conoce nuestros planes http://themes.semicolonweb.com/html/canvas/index.html -->				
+                                           
 
 	    <!-- Footer
 		============================================= -->
