@@ -2,7 +2,7 @@
 		============================================= -->
 		<section id="nosotros">
 
-	<class="page-section topmargin-lg" data-onepage-settings="{&quot;offset&quot;:140,&quot;speed&quot;:&quot;1500&quot;,&quot;easing&quot;:&quot;easeInOutExpo&quot;}">
+	<class="page-section section bg-transparent m-0" data-onepage-settings="{&quot;offset&quot;:0,&quot;speed&quot;:1250,&quot;easing&quot;:&quot;easeOutQuad&quot;}">
 
 <div class="heading-block center bottommargin-lg">
 	<h2>NOSOTROS</h2>	
