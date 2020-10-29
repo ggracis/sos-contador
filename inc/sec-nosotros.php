@@ -74,6 +74,5 @@ estudios contables y sus clientes nales.</p>
 
 </div>
 
-<div class="divider divider-sm divider-center topmargin-lg"><i class="icon-star3"></i></div>
         </section>
         <!-- #Nosotros end -->
