@@ -5,4 +5,10 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
+.menu-item:hover > .menu-link, .menu-item.current > .menu-link {
+	color: #af272a;
+}
 
+.dark .menu-item:hover > .menu-link, .dark .menu-item.current > .menu-link {
+	color: #af272a;
+}
