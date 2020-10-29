@@ -16,7 +16,7 @@
 
 								<div class="team">
 									<div class="team-image">
-										<img src="images/team/3.jpg" alt="John Doe">
+										<img src="one-page/images/equipo/3.jpg" alt="John Doe">
 									</div>
 									<div class="team-desc team-desc-bg">
 										<div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
@@ -41,7 +41,7 @@
 
 								<div class="team">
 									<div class="team-image">
-										<img src="images/team/2.jpg" alt="Josh Clark">
+										<img src="one-page/images/equipo/2.jpg" alt="Josh Clark">
 									</div>
 									<div class="team-desc team-desc-bg">
 										<div class="team-title"><h4>Josh Clark</h4><span>Co-Founder</span></div>
@@ -66,7 +66,7 @@
 
 								<div class="team">
 									<div class="team-image">
-										<img src="images/team/8.jpg" alt="Mary Jane">
+										<img src="one-page/images/equipo/8.jpg" alt="Mary Jane">
 									</div>
 									<div class="team-desc team-desc-bg">
 										<div class="team-title"><h4>Mary Jane</h4><span>Sales</span></div>
@@ -91,7 +91,7 @@
 
 								<div class="team">
 									<div class="team-image">
-										<img src="images/team/4.jpg" alt="Nix Maxwell">
+										<img src="one-page/images/equipo/4.jpg" alt="Nix Maxwell">
 									</div>
 									<div class="team-desc team-desc-bg">
 										<div class="team-title"><h4>Nix Maxwell</h4><span>Support</span></div>
