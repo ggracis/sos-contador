@@ -1,11 +1,11 @@
 	<!-- Nosotros
 		============================================= -->
 		<section id="nosotros">
-		class="page-section topmargin-lg" data-onepage-settings="{&quot;offset&quot;:140,&quot;speed&quot;:&quot;1500&quot;,&quot;easing&quot;:&quot;easeInOutExpo&quot;}">
+
+	<class="page-section topmargin-lg" data-onepage-settings="{&quot;offset&quot;:140,&quot;speed&quot;:&quot;1500&quot;,&quot;easing&quot;:&quot;easeInOutExpo&quot;}">
 
 <div class="heading-block center bottommargin-lg">
-	<h2>Services</h2>
-	<span>List of some features included in Canvas.</span>
+	<h2>NOSOTROS</h2>	
 </div>
 
 <div class="container clearfix">

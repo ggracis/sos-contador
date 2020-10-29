@@ -1,6 +1,11 @@
 	<!-- Equipo
 		============================================= -->
 		<section id="equipo">
+
+		<div class="heading-block center bottommargin-lg">
+		<h2>NUESTRO ADN</h2>	
+		</div>
+
 		<div class="section">
 					<div class="container clearfix">
 
