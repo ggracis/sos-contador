@@ -20,6 +20,7 @@
         <?php include 'inc/sec-nosotros.php';?>
 		<?php include 'inc/sec-nuestro-adn.php';?>
 		<?php include 'inc/sec-contacto.html';?> <!-- banner para el boton contacto -->	
+		
         <?php include 'inc/sec-equipo.php';?>	<!-- fotos de internet-->		
 		<?php include 'inc/sec-nuestra-red-prof.html';?>	 <!-- logos empresas -->		
 	
