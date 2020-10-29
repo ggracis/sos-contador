@@ -30,21 +30,21 @@
 
 	<!-- Document Title
 	============================================= -->
-    <title>Apartment - One Page Module | Canvas</title>
+    <title>SOS-Contador | Sistema Impositivo Contable con Gestión y Factura Electrónica</title>
 
     <!-- Metatags
 	============================================= -->
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="SOS-Contador, la web"/>
+    <meta property="og:title" content="SOS-Contador"/>
     <meta property="og:description" content="Sistema Impositivo Contable con Gestión y Factura Electrónica"/>
     <meta property="og:url" content="https://www.sos-contador.com/"/>
-    <meta property="og:site_name" content="SOS-Contador, la web"/>
-    <meta property="og:image" content="/images/cropped-cropped-logo1-1.png"/>
+    <meta property="og:site_name" content="SOS-Contador"/>
+    <meta property="og:image" content="/images/sos-contador_157x76"/>
     <meta property="og:image:width" content="512"/>
     <meta property="og:image:height" content="512"/>
     <meta property="og:locale" content="en_US"/>
     <meta name="twitter:text:title" content="Pagina Principal"/>
-    <meta name="twitter:image" content="/images/cropped-cropped-logo1-1-270x270.png"/>
+    <meta name="twitter:image" content="/images/sos-contador_157x76"/>
     <meta name="twitter:card" content="summary"/>
 
 
