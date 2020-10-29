@@ -20,10 +20,8 @@
         <?php include 'inc/sec-nosotros.php';?>
         <?php include 'inc/sec-nuestro-adn.php';?>
         <?php include 'inc/sec-equipo.php';?>			
-		<?php include 'inc/sec-red-profesional.php';?>	 <!-- logos empresas -->
-														
-		<?php include 'inc/sec-noticias.php';?>	<!-- barra negra http://themes.semicolonweb.com/html/canvas/index.html -->
-
+		<?php include 'inc/sec-red-profesional.php';?>	 <!-- logos empresas -->		
+	
 	    <!-- Footer
 		============================================= -->
         <?php include 'inc/footer.php';?> 
