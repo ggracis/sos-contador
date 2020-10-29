@@ -114,9 +114,10 @@ soporte y respaldo.
 		</div>
 	</div>
 	
-			<div class="pricing-action">
-										<a href="#" class="btn btn-danger btn-lg">CONOCE LOS PLANES</a>
-									</div>
+			
+
+			<button type="button" class="btn btn-danger btn-lg btn-block">
+			<a href="#"> CONOCE LOS PLANES</a></button>
 	
 
 </div>
