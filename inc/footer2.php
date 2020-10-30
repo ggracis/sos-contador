@@ -4,7 +4,26 @@
 <footer id="footer" class="dark">
 			<div class="container">
 				<!-- Footer Widgets
-				============================================= -->
+                ============================================= -->
+                
+<!-- banner Más de 8.000 profesionales ya la están utilizando. Empezá hoy! CONOCELO HOY
+		============================================= -->
+                <div class="section dark m-0" style="background-color: #353535;">
+            <div class="mx-auto center" style="max-width: 1280px;">
+                Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!</strong>
+                    <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
+                        class="button button-border button-rounded button-light"
+                        style="position: relative; top: -3px;">Conocé nuestros planes</a>
+            </div>
+        </div>
+
+<!-- #Fin del banner
+                ============================================= -->
+
+
+
+
+
 				<div class="footer-widgets-wrap">
 
 					<div class="row col-mb-50">
