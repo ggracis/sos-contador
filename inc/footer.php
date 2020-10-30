@@ -46,7 +46,7 @@
 										
 									<div class="flex-viewport" style="overflow: hidden; position: relative; height: 10px;"><div class="slider-wrap" style="width: 1000%; transition-duration: 0s; transform: translate3d(-330px, 0px, 0px);"><div class="slide clone" aria-hidden="true" style="width: 330px; margin-right: 0px; float: left; display: block;">
 												<div class="testi-image">
-													<a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails" draggable="false"></a>
+													<a href="#"><img src="images/clients/1.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
 												<div class="testi-content">
 													<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
@@ -58,7 +58,7 @@
 											</div>
 											<div class="slide flex-active-slide" style="width: 330px; margin-right: 0px; float: left; display: block;" data-thumb-alt="">
 												<div class="testi-image">
-													<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails" draggable="false"></a>
+													<a href="#"><img src="images/clients/3.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
 												<div class="testi-content">
 													<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
@@ -70,7 +70,7 @@
 											</div>
 											<div class="slide" data-thumb-alt="" style="width: 330px; margin-right: 0px; float: left; display: block;">
 												<div class="testi-image">
-													<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails" draggable="false"></a>
+													<a href="#"><img src="images/clients/2.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
 												<div class="testi-content">
 													<p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
@@ -82,7 +82,7 @@
 											</div>
 											<div class="slide" data-thumb-alt="" style="width: 330px; margin-right: 0px; float: left; display: block;">
 												<div class="testi-image">
-													<a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails" draggable="false"></a>
+													<a href="#"><img src="images/clients/1.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
 												<div class="testi-content">
 													<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
@@ -94,7 +94,7 @@
 											</div>
 										<div class="slide clone" style="width: 330px; margin-right: 0px; float: left; display: block;" aria-hidden="true">
 												<div class="testi-image">
-													<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails" draggable="false"></a>
+													<a href="#"><img src="images/clients/3.jpg" alt="Customer Testimonails" draggable="false"></a>
 												</div>
 												<div class="testi-content">
 													<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>

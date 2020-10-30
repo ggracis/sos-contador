@@ -12,3 +12,27 @@
 .dark .menu-item:hover > .menu-link, .dark .menu-item.current > .menu-link {
 	color: #af272a;
 }
+
+@font-face {
+    font-family: 'DINRegular';
+    src: url('fonts/din-regular-webfont.eot');
+    src: url('fonts/din-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/din-regular-webfont.woff') format('woff'),
+         url('fonts/din-regular-webfont.ttf') format('truetype'),
+         url('fonts/din-regular-webfont.svg#DINRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DINLight';
+    src: url('fonts/din-light-webfont.eot');
+    src: url('fonts/din-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/din-light-webfont.woff') format('woff'),
+         url('fonts/din-light-webfont.ttf') format('truetype'),
+         url('fonts/din-light-webfont.svg#DINLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
