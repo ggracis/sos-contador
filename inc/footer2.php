@@ -2,20 +2,20 @@
 		============================================= -->
 
 <footer id="footer" class="dark">
-			<div class="container">
+			
 				<!-- Footer Widgets
                 ============================================= -->
                 
 <!-- banner Más de 8.000 profesionales ya la están utilizando. Empezá hoy! CONOCELO HOY
 		============================================= -->
                 <div class="section dark m-0" style="background-color: #353535;">
-            <div class="mx-auto center" style="max-width: 1280px;">
-                Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!</strong>
-                    <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
+                    <div class="mx-auto center" style="max-width: 1280px;">
+                           Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!</strong>
+                           <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
                         class="button button-border button-rounded button-light"
                         style="position: relative; top: -3px;">Conocé nuestros planes</a>
+                    </div>
             </div>
-        </div>
 
 <!-- #Fin del banner
                 ============================================= -->
@@ -23,7 +23,7 @@
 
 
 
-
+                <div class="container">
 				<div class="footer-widgets-wrap">
 
 					<div class="row col-mb-50">
@@ -221,13 +221,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 					<div class="row justify-content-between">
 						<div class="col-12 col-lg-auto text-center text-lg-left">
 							<p class="mb-3">Copyrights © 2020 All Rights Reserved by Canvas Inc.</p>
-						</div>
-
-						<div class="col-12 col-lg-auto text-center text-lg-right">
-							<div class="copyrights-menu copyright-links mb-0">
-								<a href="#">Home</a>/<a href="#">Nosotros</a>/<a href="#">Features</a>/<a href="#">Portfolio</a>/<a href="#">FAQs</a>/<a href="#">Contacto</a>
-							</div>
-						</div>
+						</div>						
 					</div>
 
 				</div>
