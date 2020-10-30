@@ -10,10 +10,9 @@
 		============================================= -->
                 <div class="section dark m-0" style="background-color: #353535;">
                     <div class="mx-auto center" style="max-width: 1280px;">
-                          <h2> Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!</h2></strong>
-                           <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
+                           <p style="font-size: 1.5em;">Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!  <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
                         class="button button-border button-rounded button-light"
-                        style="position: relative; top: -3px;">Conocé nuestros planes</a>
+                        style="position: relative; top: -3px;">Conocé nuestros planes</a></p>
                     </div>
             </div>
 
