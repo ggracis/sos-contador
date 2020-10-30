@@ -17,7 +17,7 @@
 					<a href="#"><i class="icon-phone2"></i></a>
 				</div>
 				<div class="fbox-content">
-					<h3>Responsive Layout</h3>
+					
 					<p>Este sistema, pensado por contadores para contadores, cuenta
 con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 </p>
@@ -31,7 +31,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 					<a href="#"><i class="icon-eye"></i></a>
 				</div>
 				<div class="fbox-content">
-					<h3>Retina Ready Graphics</h3>
+					
 					<p>Con la incorporación de Daniel
 Orsi surgió la idea de tener una
 herramienta al servicio del contador y se proyectó el diseño
@@ -46,7 +46,7 @@ actual del sistema</p>
 					<a href="#"><i class="icon-star2"></i></a>
 				</div>
 				<div class="fbox-content">
-					<h3>Powerful Performance</h3>
+					
 					<p>En su origen comenzó a Creado
 por Federico Hatzenbuhlerfuncionar para uso interno.
 </p>
@@ -60,7 +60,7 @@ por Federico Hatzenbuhlerfuncionar para uso interno.
 					<a href="#"><i class="icon-video"></i></a>
 				</div>
 				<div class="fbox-content">
-					<h3>HTML5 Video</h3>
+					
 					<p>SOS-Contador es un sistema
 impositivo contable con gestión pensado para contadores,
 estudios contables y sus clientes nales.</p>
