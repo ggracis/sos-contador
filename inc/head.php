@@ -7,7 +7,6 @@
 
 	<!-- Stylesheets
 	============================================= -->
-	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,500,700&display=swap" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
 	<link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -22,8 +21,6 @@
 	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
 
 	<link rel="stylesheet" href="css/font-icons-child.css" type="text/css" />
-
-	<link rel="stylesheet" href="one-page/css/fonts.css" type="text/css" />
 
 	<link rel="stylesheet" href="css/custom.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

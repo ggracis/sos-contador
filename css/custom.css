@@ -5,6 +5,129 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
+@font-face {
+    font-family: 'DIN-Bold';
+    src: url('fonts/DINNextLTPro-BoldCondensed.eot');
+    src: url('fonts/DINNextLTPro-BoldCondensed.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DINNextLTPro-BoldCondensed.woff2') format('woff2'),
+        url('fonts/DINNextLTPro-BoldCondensed.woff') format('woff'),
+        url('fonts/DINNextLTPro-BoldCondensed.ttf') format('truetype'),
+        url('fonts/DINNextLTPro-BoldCondensed.svg#DINNextLTPro-BoldCondensed') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN-Light';
+    src: url('fonts/DINNextLTPro-Light.eot');
+    src: url('fonts/DINNextLTPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DINNextLTPro-Light.woff2') format('woff2'),
+        url('fonts/DINNextLTPro-Light.woff') format('woff'),
+        url('fonts/DINNextLTPro-Light.ttf') format('truetype'),
+        url('fonts/DINNextLTPro-Light.svg#DINNextLTPro-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN-Medium';
+    src: url('fonts/DINNextLTPro-Medium.eot');
+    src: url('fonts/DINNextLTPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DINNextLTPro-Medium.woff2') format('woff2'),
+        url('fonts/DINNextLTPro-Medium.woff') format('woff'),
+        url('fonts/DINNextLTPro-Medium.ttf') format('truetype'),
+        url('fonts/DINNextLTPro-Medium.svg#DINNextLTPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN-GLight';
+    src: url('fonts/DINNeuzeitGroteskStd-Light.eot');
+    src: url('fonts/DINNeuzeitGroteskStd-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DINNeuzeitGroteskStd-Light.woff2') format('woff2'),
+        url('fonts/DINNeuzeitGroteskStd-Light.woff') format('woff'),
+        url('fonts/DINNeuzeitGroteskStd-Light.ttf') format('truetype'),
+        url('fonts/DINNeuzeitGroteskStd-Light.svg#DINNeuzeitGroteskStd-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/Montserrat-Regular.eot');
+    src: url('fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Montserrat-Regular.woff2') format('woff2'),
+        url('fonts/Montserrat-Regular.woff') format('woff'),
+        url('fonts/Montserrat-Regular.ttf') format('truetype'),
+        url('fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-SB';
+    src: url('fonts/Montserrat-SemiBold.eot');
+    src: url('fonts/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Montserrat-SemiBold.woff2') format('woff2'),
+        url('fonts/Montserrat-SemiBold.woff') format('woff'),
+        url('fonts/Montserrat-SemiBold.ttf') format('truetype'),
+        url('fonts/Montserrat-SemiBold.svg#Montserrat-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+body,
+small,
+.sub-menu-container .menu-item > .menu-link,
+.wp-caption,
+.fbox-center.fbox-italic p,
+.skills li .progress-percent .counter,
+.nav-tree ul ul a,
+.font-body,
+.entry-link span,
+.entry blockquote p,
+.more-link,
+.comment-content .comment-author span,
+.comment-content .comment-author span a,
+.button.button-desc span,
+.testi-content p,
+.team-title span,
+.before-heading,
+.wedding-head .first-name span,
+.wedding-head .last-name span,
+.font-secondary { font-family: 'DIN-GLight', sans-serif; }
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#logo a,
+.menu-link,
+.mega-menu-style-2 .mega-menu-title > .menu-link,
+.top-search-form input,
+.entry-link,
+.entry.entry-date-section span,
+.button.button-desc,
+.fbox-content h3,
+.tab-nav-lg li a,
+.counter,
+label,
+.widget-filter-links li a,
+.nav-tree li a,
+.wedding-head,
+.font-primary { font-family: 'DIN-Medium', sans-serif; }
+
 .menu-item:hover > .menu-link, .menu-item.current > .menu-link {
 	color: #af272a;
 }
@@ -13,26 +136,13 @@
 	color: #af272a;
 }
 
-@font-face {
-    font-family: 'DINRegular';
-    src: url('fonts/din-regular-webfont.eot');
-    src: url('fonts/din-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/din-regular-webfont.woff') format('woff'),
-         url('fonts/din-regular-webfont.ttf') format('truetype'),
-         url('fonts/din-regular-webfont.svg#DINRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
+.menu-link {
+	text-transform: initial;
+	font-size: 1.2em !important;
+    font-family: 'DIN-Light';
 }
 
-@font-face {
-    font-family: 'DINLight';
-    src: url('fonts/din-light-webfont.eot');
-    src: url('fonts/din-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/din-light-webfont.woff') format('woff'),
-         url('fonts/din-light-webfont.ttf') format('truetype'),
-         url('fonts/din-light-webfont.svg#DINLight') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
+.menu-icono {
+	color: #af272a !important;
+    border-color: #af272a !important;
 }
