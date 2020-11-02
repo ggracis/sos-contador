@@ -3,7 +3,7 @@
 		<section id="nuestro-adn">
 		<div class="container clearfix">
 				<div class="heading-block center bottommargin-lg">
-				<h2 style="margin-bottom: 2rem">NUESTRO ADN</h2>	
+				<h2 style="margin-top: 2rem">NUESTRO ADN</h2>	
 				</div>
 
 <div class="row col-mb-50">
