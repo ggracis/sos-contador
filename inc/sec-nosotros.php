@@ -14,7 +14,7 @@
 		<div class="col-sm-6 col-lg-6">
 			<div class="feature-box fbox-center fbox-effect border-bottom-0 fadeIn animated" data-animate="fadeIn">
 				<div class="fbox-icon">
-					<a href="#"><img src="images/ico_nos/ico_2.png"></i></a>
+					<a href="#"><img src="images/ico_nos/ico_2.png"></a>
 				</div>
 				<div class="fbox-content">
 					
@@ -28,7 +28,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 		<div class="col-sm-6 col-lg-6">
 			<div class="feature-box fbox-center fbox-effect border-bottom-0 fadeIn animated" data-animate="fadeIn" data-delay="200">
 				<div class="fbox-icon">
-					<a href="#"><img src="images/ico_nos/ico_3.png"></i></a>
+					<a href="#"><img src="images/ico_nos/ico_3.png"></a>
 				</div>
 				<div class="fbox-content">
 					
@@ -43,7 +43,7 @@ actual del sistema</p>
 		<div class="col-sm-6 col-lg-6">
 			<div class="feature-box fbox-center fbox-effect border-bottom-0 fadeIn animated" data-animate="fadeIn" data-delay="400">
 				<div class="fbox-icon">
-					<a href="#"><img src="images/ico_nos/ico_1.png"></i></a>
+					<a href="#"><img src="images/ico_nos/ico_1.png"></a>
 				</div>
 				<div class="fbox-content">
 					
@@ -57,7 +57,7 @@ por Federico Hatzenbuhlerfuncionar para uso interno.
 		<div class="col-sm-6 col-lg-6">
 			<div class="feature-box fbox-center fbox-effect border-bottom-0 fadeIn animated" data-animate="fadeIn" data-delay="600">
 				<div class="fbox-icon">
-					<a href="#"><img src="images/ico_nos/ico_4.png"></i></a>
+					<a href="#"><img src="images/ico_nos/ico_4.png"></a>
 				</div>
 				<div class="fbox-content">
 					

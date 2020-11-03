@@ -10,7 +10,7 @@
 	<div class="col-sm-6 col-lg-4">
 		<div class="feature-box fbox-sm fbox-plain fadeIn animated" data-animate="fadeIn">
 			<div class="fbox-icon">
-				<a href="#"><i class="icon-line-monitor"></i></a>
+				<a href="#"><img src="images/ico_nos/ico_5.png"></a>
 			</div>
 			<div class="fbox-content">
 				
@@ -23,7 +23,7 @@ de los contadores.</p>
 	<div class="col-sm-6 col-lg-4">
 		<div class="feature-box fbox-sm fbox-plain fadeIn animated" data-animate="fadeIn" data-delay="200">
 			<div class="fbox-icon">
-				<a href="#"><i class="icon-line-eye"></i></a>
+				<a href="#"><img src="images/ico_nos/ico_6.png"></a>
 			</div>
 			<div class="fbox-content">
 				
@@ -37,7 +37,7 @@ una mirada especializada.</p>
 	<div class="col-sm-6 col-lg-4">
 		<div class="feature-box fbox-sm fbox-plain fadeIn animated" data-animate="fadeIn" data-delay="400">
 			<div class="fbox-icon">
-				<a href="#"><i class="icon-line-star"></i></a>
+				<a href="#"><img src="images/ico_nos/ico_7.png"></a>
 			</div>
 			<div class="fbox-content">
 				
@@ -50,7 +50,7 @@ nos denen.</p>
 	<div class="col-sm-6 col-lg-4">
 		<div class="feature-box fbox-sm fbox-plain fadeIn animated" data-animate="fadeIn" data-delay="600">
 			<div class="fbox-icon">
-				<a href="#"><i class="icon-line-play"></i></a>
+				<a href="#"><img src="images/ico_nos/ico_8.png"></a>
 			</div>
 			<div class="fbox-content">
 				
@@ -65,7 +65,7 @@ necesidades.</p>
 	<div class="col-sm-6 col-lg-4">
 		<div class="feature-box fbox-sm fbox-plain fadeIn animated" data-animate="fadeIn" data-delay="800">
 			<div class="fbox-icon">
-				<a href="#"><i class="icon-params"></i></a>
+				<a href="#"><img src="images/ico_nos/ico_9.png"></a>
 			</div>
 			<div class="fbox-content">
 				
@@ -78,7 +78,7 @@ de contadores y promovemos el trabajo colaborativo.</p>
 	<div class="col-sm-6 col-lg-4">
 		<div class="feature-box fbox-sm fbox-plain fadeIn animated" data-animate="fadeIn" data-delay="1000">
 			<div class="fbox-icon">
-				<a href="#"><i class="icon-line-circle-check"></i></a>
+				<a href="#"><img src="images/ico_nos/ico_10.png"></a>
 			</div>
 			<div class="fbox-content">
 				
@@ -93,7 +93,7 @@ soporte y respaldo.
 	<div class="col-sm-6 col-lg-4">
 		<div class="feature-box fbox-sm fbox-plain fadeIn animated" data-animate="fadeIn" data-delay="600">
 			<div class="fbox-icon">
-				<a href="#"><i class="icon-bulb"></i></a>
+				<a href="#"><img src="images/ico_nos/ico_11.png"></a>
 			</div>
 			<div class="fbox-content">
 				
@@ -105,7 +105,7 @@ soporte y respaldo.
 	<div class="col-sm-6 col-lg-4">
 		<div class="feature-box fbox-sm fbox-plain fadeIn animated" data-animate="fadeIn" data-delay="800">
 			<div class="fbox-icon">
-				<a href="#"><i class="icon-heart2"></i></a>
+				<a href="#"><img src="images/ico_nos/ico_12.png"></a>
 			</div>
 			<div class="fbox-content">
 				
