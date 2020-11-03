@@ -43,7 +43,7 @@ actual del sistema</p>
 		<div class="col-sm-6 col-lg-6">
 			<div class="feature-box fbox-center fbox-effect border-bottom-0 fadeIn animated" data-animate="fadeIn" data-delay="400">
 				<div class="fbox-icon">
-					<a href="#"><img src="images/ico_nos/1.png"></i></a>
+					<a href="#"><img src="images/ico_nos/ico_1.png"></i></a>
 				</div>
 				<div class="fbox-content">
 					
