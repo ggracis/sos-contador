@@ -1,10 +1,10 @@
 <!-- Noticias
 					============================================= -->
-<section id="novedades" class="page-section p-0">
+<section id="novedades" class="section p-5 m-0">
 
 
-    <div class="section mb-0 pb-0">
-        <h2 class="text-center text-uppercase font-weight-light ls3 font-body">ÚLTIMAS NOVEDADES</h2>
+    <div>
+    <h2 class="center">ÚLTIMAS NOVEDADES</h2>
         <p class="text-center font-weight-light ls3 font-body">Conocé todas nuestras noticias y actualizaciones</p>
         <div class="container col-mb-50 mb-0">
 
