@@ -129,11 +129,11 @@ label,
 .font-primary { font-family: 'DIN-Medium', sans-serif; }
 
 .menu-item:hover > .menu-link, .menu-item.current > .menu-link {
-	color: #af272a;
+	color: #cc2624;
 }
 
 .dark .menu-item:hover > .menu-link, .dark .menu-item.current > .menu-link {
-	color: #af272a;
+	color: #cc2624;
 }
 
 .menu-link {
@@ -143,6 +143,10 @@ label,
 }
 
 .menu-icono {
-	color: #af272a !important;
-    border-color: #af272a !important;
+	color: #cc2624 !important;
+    border-color: #cc2624 !important;
+}
+
+.button-red {
+    background-color: #cc2624 !important;
 }
