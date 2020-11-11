@@ -648,7 +648,7 @@ a.h-text-warning:hover {
 
 .h-text-danger:hover,
 a.h-text-danger:hover {
-	color: #dc3545 !important;
+	color: #af272a !important;
 }
 
 .h-text-light:hover,
@@ -717,7 +717,7 @@ a.h-text-dark:hover {
 }
 
 .h-bg-danger:hover {
-	background-color: #dc3545 !important;
+	background-color: #af272a !important;
 }
 
 .h-bg-light:hover {
@@ -946,7 +946,7 @@ a.h-text-dark:hover {
 }
 
 .h-border-danger:hover {
-	border-color: #dc3545 !important;
+	border-color: #af272a !important;
 }
 
 .h-border-light:hover {
