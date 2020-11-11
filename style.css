@@ -9257,7 +9257,7 @@ body:not(.device-touch) .button.button-full strong {
 .fbox-icon i,
 .fbox-icon img {
 	border-radius: 50%;
-	background-color: #1ABC9C;
+	background-color: #FFF;
 }
 
 .fbox-icon i {
