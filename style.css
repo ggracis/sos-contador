@@ -8946,15 +8946,15 @@ body:not(.device-touch) .button.button-full strong {
 /* Buttons - Colors
 -----------------------------------------------------------------*/
 
-.button-red { background-color: #C02942; }
+.button-red { background-color: #af272a; }
 .button-3d.button-red:hover,
 .button-reveal.button-red:hover,
 .button-border.button-red:hover,
-.button-border.button-red.button-fill::before { background-color: #C02942 !important; }
+.button-border.button-red.button-fill::before { background-color: #af272a !important; }
 
 .button-border.button-red {
-	color: #C02942;
-	border-color: #C02942;
+	color: #af272a;
+	border-color: #af272a;
 }
 
 .button-teal { background-color: #53777A; }
