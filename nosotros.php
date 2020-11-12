@@ -12,7 +12,7 @@
 
 		<!-- Slider
 		============================================= -->
-        <?php include 'inc/sec-slider.html';?>
+        <?php include 'inc/sec-slider-nosotros.html';?>
         <!-- #slider end -->
 
 		<!-- Contenido
