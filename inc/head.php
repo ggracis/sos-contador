@@ -22,7 +22,7 @@
 
 	<link rel="stylesheet" href="css/font-icons-child.css" type="text/css" />
 
-	<link rel="stylesheet" href="css/custom.css" type="text/css" />
+	<link rel="stylesheet" href="css/custom.css?v=1" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- Document Title
