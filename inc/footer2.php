@@ -57,70 +57,52 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 							<div class="widget clearfix">
 								<h4>TESTIMONIOS DE CLIENTES</h4>
 
-								<div class="fslider testimonial no-image bg-transparent border-0 shadow-none p-0" data-animation="slide" data-arrows="false">
-									<div class="flexslider">
-										
-									<div class="flex-viewport" style="overflow: hidden; position: relative; height: 17px;"><div class="slider-wrap" style="width: 1000%; transition-duration: 0s; transform: translate3d(-350px, 0px, 0px);"><div class="slide clone" aria-hidden="true" style="width: 350px; margin-right: 0px; float: left; display: block;">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/1.png" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
-													<div class="testi-meta">
-														John Doe
-														<span>XYZ Inc.</span>
+								<div class="posts-sm row col-mb-30" id="post-list-footer">
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
+														</div>
+														<div class="entry-meta">
+															<ul>
+																<li>10th July 2021</li>
+															</ul>
+														</div>
 													</div>
 												</div>
 											</div>
-											<div class="slide flex-active-slide" style="width: 350px; margin-right: 0px; float: left; display: block;" data-thumb-alt="">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/3.png" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
-													<div class="testi-meta">
-														Steve Jobs
-														<span>Apple Inc.</span>
+
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<h4><a href="#">Elit Assumenda vel amet dolorum quasi</a></h4>
+														</div>
+														<div class="entry-meta">
+															<ul>
+																<li>10th July 2021</li>
+															</ul>
+														</div>
 													</div>
 												</div>
 											</div>
-											<div class="slide" data-thumb-alt="" style="width: 350px; margin-right: 0px; float: left; display: block;">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/2.png" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-													<div class="testi-meta">
-														Collis Ta'eed
-														<span>Envato Inc.</span>
+
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
+														</div>
+														<div class="entry-meta">
+															<ul>
+																<li>10th July 2021</li>
+															</ul>
+														</div>
 													</div>
 												</div>
 											</div>
-											<div class="slide" data-thumb-alt="" style="width: 350px; margin-right: 0px; float: left; display: block;">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/1.png" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
-													<div class="testi-meta">
-														John Doe
-														<span>XYZ Inc.</span>
-													</div>
-												</div>
-											</div>
-										<div class="slide clone" style="width: 350px; margin-right: 0px; float: left; display: block;" aria-hidden="true">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/3.png" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
-													<div class="testi-meta">
-														Steve Jobs
-														<span>Apple Inc.</span>
-													</div>
-												</div>
-											</div></div></div><ol class="flex-control-nav flex-control-paging"><li><a href="#" class="flex-active">1</a></li><li><a href="#">2</a></li><li><a href="#">3</a></li></ol></div>
-								</div>
+										</div>
 
 							</div>
 
