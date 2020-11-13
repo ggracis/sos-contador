@@ -38,10 +38,10 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 
 								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 									<address>
-										<strong>Términos y Condiciones</strong><br><br>
-										Defensa al Consumidor<br>
-										<p>Dirección General de Defensa<br>
-										y Protección al Consumidor</p><br>
+										<p>Términos y Condiciones</p><br>
+										<p>Defensa al Consumidor</p><br>
+										<p>Dirección General de Defensa</p><br>
+										<p>y Protección al Consumidor</p><br>
 										<a href="http://defensadelconsumidor.buenosaires.gov.ar/">Consultas y/o Denuncias</a><br>
 										<br>
 										
@@ -62,7 +62,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<h4><a href="#">-	Nosotros</a></h4>
+															<h4><a href="https://newdanger.com.ar/sos-contador/nosotros.php">-	Nosotros</a></h4>
 														</div>
 														
 													</div>
@@ -73,7 +73,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<h4><a href="#">-	Planes</a></h4>
+															<h4><a href="https://newdanger.com.ar/sos-contador/#planes">-	Planes</a></h4>
 														</div>
 														
 													</div>
@@ -84,7 +84,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<h4><a href="#">-	Preguntas Frecuentes </a></h4>
+															<h4><a href="https://www.sos-contador.com/2017/07/11/una-sesion-tipica-de-preguntas-y-respuestas/">-	Preguntas Frecuentes </a></h4>
 														</div>
 													
 													</div>
