@@ -38,14 +38,15 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 
 								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 									<address>
-										<strong>Dirección:</strong><br>
-										795 Folsom Ave, Suite 600<br>
-										San Francisco, CA 94107<br>
+										<strong>Términos y Condiciones</strong><br><br>
+										Defensa al Consumidor<br>
+										<p>Dirección General de Defensa<br>
+										y Protección al Consumidor</p><br>
+										<a href="http://defensadelconsumidor.buenosaires.gov.ar/">Consultas y/o Denuncias</a><br>
+										<br>
+										
 									</address>
-									<abbr title="Phone Number"><strong>Telefono:</strong></abbr> (1) 8547 632521<br>
-									<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
-									<abbr title="Email Address"><strong>Email:</strong></abbr> info@sos-contador.com.ar
-								</div>
+									</div>
 
 							</div>
 
