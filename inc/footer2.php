@@ -62,13 +62,9 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
+															<h4><a href="#">-	Nosotros</a></h4>
 														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
+														
 													</div>
 												</div>
 											</div>
@@ -77,13 +73,9 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<h4><a href="#">Elit Assumenda vel amet dolorum quasi</a></h4>
+															<h4><a href="#">-	Planes</a></h4>
 														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
+														
 													</div>
 												</div>
 											</div>
@@ -92,13 +84,9 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
+															<h4><a href="#">-	Preguntas Frecuentes </a></h4>
 														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
+													
 													</div>
 												</div>
 											</div>
