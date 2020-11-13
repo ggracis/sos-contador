@@ -106,31 +106,18 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 									<i class="icon-twitter"></i>
 								</a>
 
-								<a href="https://www.instagram.com/soscontador/" class="social-icon si-small si-rounded si-gplus">
-									<i class="icon-gplus"></i>
-									<i class="icon-gplus"></i>
+								<a href="https://www.instagram.com/soscontador/" class="social-icon si-small si-rounded si-instagram">
+									<i class="icon-instagram"></i>
+									<i class="icon-instagram"></i>
 								</a>
 
-								<a href="#" class="social-icon si-small si-rounded si-pinterest">
-									<i class="icon-pinterest"></i>
-									<i class="icon-pinterest"></i>
+								
+								<a href="#" class="social-icon si-small si-rounded si-youtube">
+									<i class="icon-youtube"></i>
+									<i class="icon-youtube"></i>
 								</a>
 
-								<a href="#" class="social-icon si-small si-rounded si-vimeo">
-									<i class="icon-vimeo"></i>
-									<i class="icon-vimeo"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-rounded si-github">
-									<i class="icon-github"></i>
-									<i class="icon-github"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-rounded si-yahoo">
-									<i class="icon-yahoo"></i>
-									<i class="icon-yahoo"></i>
-								</a>
-
+																
 								<a href="#" class="social-icon si-small si-rounded si-linkedin">
 									<i class="icon-linkedin"></i>
 									<i class="icon-linkedin"></i>
