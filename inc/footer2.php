@@ -39,12 +39,12 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 									<address>
 										<strong>Términos y Condiciones</strong><br><br>
-										<strong>Defensa al Consumidor</strong><br>
+										Defensa al Consumidor<br>
 										<p>Dirección General de Defensa<br>
 										y Protección al Consumidor</p><br>
 										<a href="http://defensadelconsumidor.buenosaires.gov.ar/">Consultas y/o Denuncias</a><br>
 										<br>
-										San Francisco, CA 94107<br>
+										
 									</address>
 									</div>
 
