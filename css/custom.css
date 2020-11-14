@@ -150,3 +150,34 @@ label,
 .button-red {
     background-color: #cc2624 !important;
 }
+
+.portfolio, .portfolio-item {
+    text-align: center;
+}
+
+.portfolio-item .portfolio-image,
+.portfolio-item .portfolio-image > a,
+.portfolio-item .portfolio-image img {
+	display:inline-block;
+	max-height: 5em;
+	width: auto;
+}
+
+.portfolio-item .portfolio-image img {
+   
+    -webkit-filter: grayscale(100%) 
+            brightness(110%)
+            contrast(100%);
+    filter: grayscale(100%) 
+            brightness(110%)
+            contrast(100%);
+    
+    transition: filter 0.3s, box-shadow 0.3s;
+    -webkit-transition: filter 0.3s, -webkit-filter 0.3s, box-shadow 0.3s;
+  }
+  .portfolio-item:hover .portfolio-image img, 
+  .portfolio-item:focus .portfolio-image img {
+    -webkit-filter: none;
+    filter: none;
+    box-shadow: #224 0.2em 0.2em 0.6em 0.1em;
+  }
