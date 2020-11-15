@@ -42,7 +42,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 										<p>- Defensa al Consumidor</p>
 										Dirección General de Defensa<br>
 										y Protección al Consumidor<br>
-										<p><a href="http://defensadelconsumidor.buenosaires.gov.ar/">Consultas y/o Denuncias</a></p><br>
+										<p><a href="http://defensadelconsumidor.buenosaires.gov.ar/">- Consultas y/o Denuncias</a></p><br>
 										<br>
 										
 									</address>
