@@ -55,7 +55,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 						<div class="col-md-6 col-lg-4">
 
 							<div class="widget clearfix">
-								<h4>TESTIMONIOS DE CLIENTES</h4>
+								<h4>Enlaces Rapidos</h4>
 
 								<div class="posts-sm row col-mb-30" id="post-list-footer">
 											<div class="entry col-12">
@@ -101,7 +101,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 									<i class="icon-facebook"></i>
 								</a>
 
-								<a href="https://twitter.com/soscontador" class="social-icon si-small si-rounded si-twitter">
+								<a href="https://twitter.com/sos.contador.arg" class="social-icon si-small si-rounded si-twitter">
 									<i class="icon-twitter"></i>
 									<i class="icon-twitter"></i>
 								</a>
@@ -112,13 +112,13 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 								</a>
 
 								
-								<a href="#" class="social-icon si-small si-rounded si-youtube">
+								<a href="https://www.youtube.com/channel/UCJEfVpPqPsW7ewqR_uRxohQ" class="social-icon si-small si-rounded si-youtube">
 									<i class="icon-youtube"></i>
 									<i class="icon-youtube"></i>
 								</a>
 
 																
-								<a href="#" class="social-icon si-small si-rounded si-linkedin">
+								<a href="https://www.linkedin.com/company/sos-contador" class="social-icon si-small si-rounded si-linkedin">
 									<i class="icon-linkedin"></i>
 									<i class="icon-linkedin"></i>
 								</a>
@@ -177,7 +177,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 
 					<div class="row justify-content-between">
 						<div class="col-12 col-lg-auto text-center text-lg-left">
-							<p class="mb-3">Copyrights © 2020 All Rights Reserved by Canvas Inc.</p>
+							<p class="mb-3">Copyrights © 2020 All Rights Reserved by SOS Contador</p>
 						</div>						
 					</div>
 
