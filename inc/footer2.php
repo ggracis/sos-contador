@@ -38,11 +38,11 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 
 								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 									<address>
-										<p>- Términos y Condiciones</p><br>
-										<p- >Defensa al Consumidor</p><br>
+										<p>- Términos y Condiciones</p>
+										<p>- Defensa al Consumidor</p>
 										Dirección General de Defensa<br>
 										y Protección al Consumidor<br>
-										<a href="http://defensadelconsumidor.buenosaires.gov.ar/">Consultas y/o Denuncias</a><br>
+										<p><a href="http://defensadelconsumidor.buenosaires.gov.ar/">Consultas y/o Denuncias</a></p><br>
 										<br>
 										
 									</address>
