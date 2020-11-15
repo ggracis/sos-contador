@@ -12,25 +12,25 @@
 
 		<!-- Slider
 		============================================= -->
-        <?php include 'inc/sec-slider.html';?> <!-- http://themes.semicolonweb.com/html/canvas/index-corporate.html -->
+        <?php include 'inc/sec-slider.html';?> 
         <!-- #slider end -->
 
 		<!-- Contenido
 		============================================= -->
         <section id="content">
 			<div class="content-wrap p-0">
-        <?php include 'inc/sec-como_funciona.html';?> <!-- Como funciona http://themes.semicolonweb.com/html/canvas/index-corporate.html-->
-        <?php include 'inc/sec-funcionalidades.html';?> <!-- http://themes.semicolonweb.com/html/canvas/index-corporate.html -->
-        <?php include 'inc/sec-empeza_hoy.html';?> <!-- Empeza hoy  http://themes.semicolonweb.com/html/canvas/index-corporate.html -->
-        <?php include 'inc/sec-planes.html';?>    <!-- Planes  http://themes.semicolonweb.com/html/canvas/pricing.html -->                                  
-        <?php include 'inc/sec-clientes.html';?> <!-- Clientes http://themes.semicolonweb.com/html/canvas/testimonials-twitter.html -->
-        <?php include 'inc/sec-noticias.php';?> <!-- Noticias http://themes.semicolonweb.com/html/canvas/index.html -->
+                <?php include 'inc/sec-como_funciona.html';?> 
+                <?php include 'inc/sec-funcionalidades.html';?>
+                <?php include 'inc/sec-empeza_hoy.html';?> 
+                <?php include 'inc/sec-planes.html';?>   
+                <?php include 'inc/sec-clientes.html';?>
+                <?php include 'inc/sec-noticias.php';?> 
             </div>   
         </section>                               
 
 	    <!-- Footer
 		============================================= -->
-        <?php include 'inc/footer2.php';?> <!-- http://themes.semicolonweb.com/html/canvas/index-corporate.html --> <!-- http://themes.semicolonweb.com/html/canvas/footer-2.html#footer -->
+        <?php include 'inc/footer.php';?> 
         <!-- #slider end -->
 		
 

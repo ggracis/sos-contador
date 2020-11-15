@@ -1,36 +1,52 @@
 <!-- Footer
 		============================================= -->
-	<footer id="footer" class="dark border-0" style="background-color: #282828;">
-	
-	<div class="section dark m-0" style="background-color: #353535;">
-            <div class="mx-auto center" style="max-width: 1280px;">
-                Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!</strong>
-                    <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
-                        class="button button-border button-rounded button-light"
-                        style="position: relative; top: -3px;">Conocé nuestros planes</a>
-            </div>
-        </div>
 
-        <div class="container center">
-        <div class="row col-mb-50">
+<footer id="footer" class="dark">
+			
+				<!-- Footer Widgets
+                ============================================= -->
+                
+<!-- banner Más de 8.000 profesionales ya la están utilizando. Empezá hoy! CONOCELO HOY
+		============================================= -->
+                <div class="section dark m-0" style="background-color: #353535;">
+                    <div class="mx-auto center" style="max-width: 1280px;">
+                           <p style="font-size: 1.5em;">Más de 8.000 profesionales ya la están utilizando. <strong>Empezá hoy!  <a href="#" data-scrollto="#planes" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
+                        class="button button-border button-rounded button-light"
+                        style="position: relative; top: -3px;">Conocé nuestros planes</a></p>
+                    </div>
+            </div>
+
+<!-- #Fin del banner
+                ============================================= -->
+
+
+
+
+                <div class="container">
+				<div class="footer-widgets-wrap">
+
+					<div class="row col-mb-50">
 						<div class="col-md-6 col-lg-4">
 
 							<div class="widget clearfix">
 
-								<img src="images/footer-widget-logo.png" alt="Image" class="footer-logo">
+								<img src="images/sos-contador_157x76.png" alt="Image" class="footer-logo">
 
-								<p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards with a Retina &amp; Responsive Approach. Browse the amazing Features this template offers.</p>
+								<p>Este sistema, pensado por contadores para contadores, cuenta
+con una permanente actualización y desarrolla nuevas funcionalidades a diario.
+</p>
 
 								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 									<address>
-										<strong>Dirección:</strong><br>
-										795 Folsom Ave, Suite 600<br>
-										San Francisco, CA 94107<br>
+										<p>- Términos y Condiciones</p>
+										<p>- Defensa al Consumidor</p>
+										Dirección General de Defensa<br>
+										y Protección al Consumidor<br>
+										<p><a href="http://defensadelconsumidor.buenosaires.gov.ar/">- Consultas y/o Denuncias</a></p><br>
+										<br>
+										
 									</address>
-									<abbr title="Phone Number"><strong>Telefono:</strong></abbr> (1) 8547 632521<br>
-									<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
-									<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
-								</div>
+									</div>
 
 							</div>
 
@@ -39,83 +55,75 @@
 						<div class="col-md-6 col-lg-4">
 
 							<div class="widget clearfix">
-								<h4>Testimonios de Clientes</h4>
+								<h4>Enlaces Rapidos</h4>
 
-								<div class="fslider testimonial no-image bg-transparent border-0 shadow-none p-0" data-animation="slide" data-arrows="false">
-									<div class="flexslider">
-										
-									<div class="flex-viewport" style="overflow: hidden; position: relative; height: 10px;"><div class="slider-wrap" style="width: 1000%; transition-duration: 0s; transform: translate3d(-330px, 0px, 0px);"><div class="slide clone" aria-hidden="true" style="width: 330px; margin-right: 0px; float: left; display: block;">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/1.jpg" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
-													<div class="testi-meta">
-														John Doe
-														<span>XYZ Inc.</span>
+								<div class="posts-sm row col-mb-30" id="post-list-footer">
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<a href="https://newdanger.com.ar/sos-contador/#planes">- Planes</a>
+														</div>
 													</div>
 												</div>
 											</div>
-											<div class="slide flex-active-slide" style="width: 330px; margin-right: 0px; float: left; display: block;" data-thumb-alt="">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/3.jpg" alt="Customer Testimonails" draggable="false"></a>
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<a href="https://newdanger.com.ar/sos-contador/#novedades">- Novedades</a>
+														</div>
+													</div>
 												</div>
-												<div class="testi-content">
-													<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
-													<div class="testi-meta">
-														Steve Jobs
-														<span>Apple Inc.</span>
+											</div>			
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<a href="https://newdanger.com.ar/sos-contador/nosotros.php">- Nosotros</a>
+														</div>
 													</div>
 												</div>
 											</div>
-											<div class="slide" data-thumb-alt="" style="width: 330px; margin-right: 0px; float: left; display: block;">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/2.jpg" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-													<div class="testi-meta">
-														Collis Ta'eed
-														<span>Envato Inc.</span>
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente=">- Registrate</a>
+														</div>
 													</div>
 												</div>
 											</div>
-											<div class="slide" data-thumb-alt="" style="width: 330px; margin-right: 0px; float: left; display: block;">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/1.jpg" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
-													<div class="testi-meta">
-														John Doe
-														<span>XYZ Inc.</span>
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<a href="https://soft.sos-contador.com/web/">- Ingresar</a>
+														</div>
 													</div>
 												</div>
 											</div>
-										<div class="slide clone" style="width: 330px; margin-right: 0px; float: left; display: block;" aria-hidden="true">
-												<div class="testi-image">
-													<a href="#"><img src="images/clients/3.jpg" alt="Customer Testimonails" draggable="false"></a>
-												</div>
-												<div class="testi-content">
-													<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
-													<div class="testi-meta">
-														Steve Jobs
-														<span>Apple Inc.</span>
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
+															<a href="https://www.sos-contador.com/2017/07/11/una-sesion-tipica-de-preguntas-y-respuestas/">- Preguntas Frecuentes </a>
+														</div>
 													</div>
 												</div>
-											</div></div></div><ol class="flex-control-nav flex-control-paging"><li><a href="#" class="flex-active">1</a></li><li><a href="#">2</a></li><li><a href="#">3</a></li></ol></div>
-								</div>
+											</div>
+										</div>
 
 							</div>
 
-							<div class="widget clearfix">
+							<div>
 
 								<a href="https://www.facebook.com/SOScontador/" class="social-icon si-small si-rounded si-facebook">
 									<i class="icon-facebook"></i>
 									<i class="icon-facebook"></i>
 								</a>
 
-								<a href="https://twitter.com/soscontador" class="social-icon si-small si-rounded si-twitter">
+								<a href="https://twitter.com/sos.contador.arg" class="social-icon si-small si-rounded si-twitter">
 									<i class="icon-twitter"></i>
 									<i class="icon-twitter"></i>
 								</a>
@@ -125,27 +133,14 @@
 									<i class="icon-instagram"></i>
 								</a>
 
-								<a href="#" class="social-icon si-small si-rounded si-pinterest">
-									<i class="icon-pinterest"></i>
-									<i class="icon-pinterest"></i>
+								
+								<a href="https://www.youtube.com/channel/UCJEfVpPqPsW7ewqR_uRxohQ" class="social-icon si-small si-rounded si-youtube">
+									<i class="icon-youtube"></i>
+									<i class="icon-youtube"></i>
 								</a>
 
-								<a href="#" class="social-icon si-small si-rounded si-vimeo">
-									<i class="icon-vimeo"></i>
-									<i class="icon-vimeo"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-rounded si-github">
-									<i class="icon-github"></i>
-									<i class="icon-github"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-rounded si-yahoo">
-									<i class="icon-yahoo"></i>
-									<i class="icon-yahoo"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-rounded si-linkedin">
+																
+								<a href="https://www.linkedin.com/company/sos-contador" class="social-icon si-small si-rounded si-linkedin">
 									<i class="icon-linkedin"></i>
 									<i class="icon-linkedin"></i>
 								</a>
@@ -158,7 +153,7 @@
 
 							<div class="widget quick-contact-widget form-widget clearfix">
 
-								<h4>Enviar Mensaje</h4>
+								<h4>ENVIAR MENSAJE</h4>
 
 								<div class="form-result"></div>
 
@@ -185,7 +180,7 @@
 									<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Mensaje"></textarea>
 									<input type="text" class="d-none" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="">
 									<input type="hidden" name="prefix" value="quick-contact-form-">
-									<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger m-0" value="submit">Enviar</button>
+									<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="m-0 btn-block button button-fill button-reveal button-red" value="submit">Enviar</button>
 
 								</form>
 
@@ -193,13 +188,23 @@
 
 						</div>
 					</div>
-            
-        
-        <div id="copyrights">
-            <div class="container center clearfix">
-                Copyrights Canvas 2020 | All Rights Reserved
-            </div>
-        </div>
 
-    </footer>
-<!-- #footer end -->
+				</div><!-- .footer-widgets-wrap end -->
+			</div>
+
+			<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
+				<div class="container">
+
+					<div class="row justify-content-between">
+						<div class="col-12 col-lg-auto text-center text-lg-left">
+							<p class="mb-3">Copyrights © 2020 All Rights Reserved by SOS Contador</p>
+						</div>						
+					</div>
+
+				</div>
+			</div><!-- #copyrights end -->
+        </footer>
+        
+        <!-- #footer end -->
