@@ -13,6 +13,7 @@
 		<!-- Slider
 		============================================= -->
         <?php include 'inc/sec-slider.html';?> 
+        <?php include 'inc/sec-marquesina.html';?>   
         <!-- #slider end -->
 
 		<!-- Contenido

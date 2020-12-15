@@ -1,32 +1,33 @@
-const RSS_URL = 'http://www.sos-contador.com/feed/';
-
-$.ajax(RSS_URL, {
-  accepts: {
-    xml: "application/rss+xml"
-  },
-
-  dataType: "xml",
-
-  success: function(data) {
-    $(data)
-      .find("item")
-      .each(function() {
-        const el = $(this);
-
-        const template = `
-          <article>
-            <img src="${el.find("link").text()}/image/large.png" alt="">
-            <h2>
-              <a href="${el
-                .find("link")
-                .text()}" target="_blank" rel="noopener">
-                ${el.find("title").text()}
-              </a>
-            </h2>
-          </article>
-        `;
-
-        document.body.insertAdjacentHTML("beforeend", template);
-      });
-  }
-});
+//const RSS_URL = 'http://www.sos-contador.com/feed/';
+const RSS_URL = '../noticias.xml';
+fetch(RSS_URL)
+  .then(response => response.text())
+  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+  .then(data => {
+    console.log(data);
+    const items = data.querySelectorAll("item");
+    let html = ``;
+    let i =0;
+    items.forEach(el => {
+       if (i < 3) {
+      html += `
+        <article>
+         
+          <h2>
+            <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
+              ${el.querySelector("title").innerHTML}
+            </a>
+          </h2>
+          <p>
+          ${el.querySelector("description").innerHTML}
+          
+          </p>
+        </article>
+      `;
+     
+      console.log(el.querySelector("description").data);
+       }
+  i++;
+    });
+    document.body.insertAdjacentHTML("beforeend", html);
+  });

@@ -181,3 +181,8 @@ label,
     filter: none;
     box-shadow: #224 0.2em 0.2em 0.6em 0.1em;
   }
+
+  
+  .noticia-marquesina{
+    color: #fff; padding: 0 3rem 0px 3rem;
+  }
