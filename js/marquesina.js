@@ -10,7 +10,7 @@ fetch(RSS_URL)
     let i =0;
     html+= `<span> - </span> `;
     items.forEach(el => {
-       if (i < 5 {
+       if (i < 5) {
       html += `
   
             <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener" class="noticia-marquesina">
