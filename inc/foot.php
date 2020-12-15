@@ -22,7 +22,7 @@
 
 				$('#noticia').marquee();
     console.log( "ready!" );
-}, 50);
+}, 500);
 			
 });
 
