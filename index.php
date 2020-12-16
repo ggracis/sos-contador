@@ -13,6 +13,7 @@
 		<!-- Slider
 		============================================= -->
         <?php include 'inc/sec-slider.html';?> 
+        <?php include 'inc/sec-marquesina.html';?>   
         <!-- #slider end -->
 
 		<!-- Contenido
@@ -25,8 +26,9 @@
                 <?php include 'inc/sec-planes.html';?>  
                 <?php include 'inc/sec-planes2.html';?>   
                 <?php include 'inc/sec-clientes.html';?>
-                <?php include 'inc/sec-noticias.php';?> 
+                <?php include 'inc/sec-noticias.html';?> 
                 <?php include 'inc/sec-conoce_nuestros_planes.html';?>                 
+                <?php include 'inc/sec-nosotros.html';?>      
                  <?php include 'inc/sec-nuestro-adn.html';?>      
                  <?php include 'inc/sec-contacto.html';?> <!-- banner para el boton contacto -->	                                
 	             <?php include 'inc/sec-equipo.html';?>	<!-- fotos de internet-->		
