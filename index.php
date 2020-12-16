@@ -22,7 +22,8 @@
                 <?php include 'inc/sec-como_funciona.html';?> 
                 <?php include 'inc/sec-funcionalidades.html';?>
                 <?php include 'inc/sec-empeza_hoy.html';?> 
-                <?php include 'inc/sec-planes.html';?>   
+                <?php include 'inc/sec-planes.html';?>  
+                <?php include 'inc/sec-planes2.html';?>   
                 <?php include 'inc/sec-clientes.html';?>
                 <?php include 'inc/sec-noticias.php';?> 
                 <?php include 'inc/sec-conoce_nuestros_planes.html';?>                 
