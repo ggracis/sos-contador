@@ -17,14 +17,15 @@
 	<script src="js/functions.js"></script>
 
 	<script>
+		$('#noticia').hide();
 		$( document ).ready(function() {
 			setTimeout(function (){
-
 				$('#noticia').marquee();
-    console.log( "ready!" );
-}, 500);
-			
-});
+				$('#noticia').show();
+  		  console.log( "ready!" );
+			}, 500);
+						
+		});
 
 		  
 		  </script>

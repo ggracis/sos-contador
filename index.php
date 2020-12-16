@@ -25,7 +25,7 @@
                 <?php include 'inc/sec-empeza_hoy.html';?> 
                 <?php include 'inc/sec-planes.html';?>   
                 <?php include 'inc/sec-clientes.html';?>
-                <?php include 'inc/sec-noticias.php';?> 
+                <?php include 'inc/sec-noticias.html';?> 
                 <?php include 'inc/sec-conoce_nuestros_planes.html';?>                 
                 <?php include 'inc/sec-nosotros.html';?>      
                  <?php include 'inc/sec-nuestro-adn.html';?>      
