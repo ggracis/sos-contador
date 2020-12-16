@@ -186,3 +186,17 @@ label,
   .noticia-marquesina{
     color: #fff; padding: 0 3rem 0px 3rem;
   }
+  
+  .pricing-features{
+    font-size: 0.8rem;
+    line-height: 1rem;
+  }
+  .pricing-title{
+      text-align: center;
+  }
+  .pricing-price{
+    text-align: center;
+  }
+  .pricing-action{
+    text-align: center;
+  }
