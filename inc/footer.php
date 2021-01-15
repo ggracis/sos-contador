@@ -54,7 +54,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://newdanger.com.ar/sos-contador/#novedades">- Novedades</a>
+															<a href="http://newdanger.com.ar/secin/category/noticias">- Novedades</a>
 														</div>
 													</div>
 												</div>
