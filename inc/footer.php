@@ -13,7 +13,7 @@
 
 							<div class="widget clearfix">
 
-								<img src="images/sos-contador_157x76.png" alt="Image" class="footer-logo">
+								<img src="images/logo_top.png" alt="Image" class="footer-logo">
 
 								<p>Este sistema, pensado por contadores para contadores, cuenta
 con una permanente actualización y desarrolla nuevas funcionalidades a diario.
@@ -72,6 +72,15 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
+															<a href="https://www.sos-contador.com/2017/07/11/una-sesion-tipica-de-preguntas-y-respuestas/">- Preguntas Frecuentes </a>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="entry col-12">
+												<div class="grid-inner row">
+													<div class="col">
+														<div class="entry-title">
 															<a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente=">- Registrate</a>
 														</div>
 													</div>
@@ -86,15 +95,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 													</div>
 												</div>
 											</div>
-											<div class="entry col-12">
-												<div class="grid-inner row">
-													<div class="col">
-														<div class="entry-title">
-															<a href="https://www.sos-contador.com/2017/07/11/una-sesion-tipica-de-preguntas-y-respuestas/">- Preguntas Frecuentes </a>
-														</div>
-													</div>
-												</div>
-											</div>
+											
 										</div>
 
 							</div>
