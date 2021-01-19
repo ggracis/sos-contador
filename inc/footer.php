@@ -141,7 +141,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 
 								<div class="form-result"></div>
 
-								<form id="quick-contact-form" name="quick-contact-form" action="include/form.php" method="post" class="quick-contact-form mb-0" novalidate="novalidate">
+								<form id="quick-contact-form" name="quick-contact-form" action="inc/form.php" method="post" class="quick-contact-form mb-0" novalidate="novalidate">
 
 									<div class="form-process">
 										<div class="css3-spinner">
