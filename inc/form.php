@@ -27,7 +27,7 @@ require 'phpmailer/src/SMTP.php';
 $toemails = array();
 
 $toemails[] = array(
-				'email' => 'gastongracis@gmail.com', // Your Email Address
+				'email' => 'contacto@sos-contador.com', // Your Email Address
 				'name' => 'SOS-Contador' // Your Name
 			);
 
@@ -174,7 +174,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 	}
 
 	$template	= !empty( $submits['template'] ) ? $submits['template'] : 'html';
-	$html_title	= !empty( $submits['html_title'] ) ? $submits['html_title'] : 'Form Response';
+	$html_title	= !empty( $submits['html_title'] ) ? $submits['html_title'] : 'SOS-Contador [Formulario]';
 	$forcerecap	= ( !empty( $submits['force_recaptcha'] ) && $submits['force_recaptcha'] != 'false' ) ? true : false;
 	$replyto	= !empty( $submits['replyto'] ) ? explode( ',', $submits['replyto'] ) : false;
 
@@ -203,7 +203,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
 	$ar_footer	= !empty( $submits['ar_footer'] ) ? $submits['ar_footer'] : 'Copyrights &copy; ' . date('Y') . ' <strong>SemiColonWeb</strong>. All Rights Reserved.';
 
-	$mail->Subject = !empty( $submits['subject'] ) ? $submits['subject'] : 'Form Response from your Website';
+	$mail->Subject = !empty( $submits['subject'] ) ? $submits['subject'] : 'Contacto desde la web SOS-Contador';
 	$mail->SetFrom( $fromemail['email'] , $fromemail['name'] );
 
 	if( !empty( $replyto ) ) {
