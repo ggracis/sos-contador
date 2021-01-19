@@ -11,7 +11,7 @@
 	>
 
 <channel>
-	<title>SOS-Contador, la web</title>
+	<title>SOS-Contador, la web </title>
 	<atom:link href="https://www.sos-contador.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.sos-contador.com</link>
 	<description>Sistema Impositivo Contable con Gestión y Factura Electrónica</description>
