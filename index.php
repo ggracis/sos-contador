@@ -30,7 +30,7 @@
                 <?php include 'inc/sec-nosotros.html';?>      
                 <?php include 'inc/sec-nuestro-adn.html';?>      
                 <?php include 'inc/sec-contacto.html';?>                                
-	            <?php include 'inc/sec-equipo.html';?>	
+	            <?php /* include 'inc/sec-equipo.html'; */?>
                 <?php include 'inc/sec-nuestra-red-prof.html';?>
             </div>   
         </section>                               

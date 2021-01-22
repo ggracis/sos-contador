@@ -15,16 +15,13 @@
 
 								<img src="images/logo_top.png" alt="Image" class="footer-logo">
 
-								<p>Este sistema, pensado por contadores para contadores, cuenta
-con una permanente actualización y desarrolla nuevas funcionalidades a diario.
+								<p>Sistema impositivo contable con gestión. Pensado por contadores, para contadores. Hablamos tu mismo idioma.
 </p>
 
 								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 									<address>
 										<p>- Términos y Condiciones</p>
 										<p>- Defensa al Consumidor</p>
-										Dirección General de Defensa<br>
-										y Protección al Consumidor<br>
 										<p><a href="http://defensadelconsumidor.buenosaires.gov.ar/">- Consultas y/o Denuncias</a></p><br>
 										<br>
 										
@@ -45,7 +42,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://newdanger.com.ar/sos-contador/#planes">- Planes</a>
+															<a href="#planes">- Planes</a>
 														</div>
 													</div>
 												</div>
@@ -54,7 +51,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="http://newdanger.com.ar/secin/blog/category/noticias">- Novedades</a>
+															<a href="https://www.sos-contador.com/blog/">- Blog</a>
 														</div>
 													</div>
 												</div>
@@ -63,7 +60,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://newdanger.com.ar/sos-contador/nosotros.php">- Nosotros</a>
+															<a href="#nosotros">- Nosotros</a>
 														</div>
 													</div>
 												</div>

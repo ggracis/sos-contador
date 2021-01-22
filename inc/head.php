@@ -27,7 +27,7 @@
 
 	<!-- Document Title
 	============================================= -->
-    <title>SOS-Contador | Sistema Impositivo Contable con Gestión y Factura Electrónica</title>
+    <title>SOS-Contador, la Web</title>
 
     <!-- Metatags
 	============================================= -->

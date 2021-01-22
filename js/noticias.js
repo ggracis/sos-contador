@@ -22,6 +22,9 @@ fetch(RSS_URL_NOTICIAS)
         const formatoAR = new Intl.DateTimeFormat('es-AR',{});
         let fechaAR = formatoAR.format(date1);
 
+        let category = el.querySelector("category").innerHTML;
+        category = category.replace("<![CDATA[", "");
+        category = category.replace( "]]>", "" );
 
       html += `
     <div class="entry col-sm-6 col-md-4">
@@ -32,6 +35,11 @@ fetch(RSS_URL_NOTICIAS)
                         ${el.querySelector("title").innerHTML}
                         </a>
                     </h3>
+                </div>
+                <div class="entry-meta">
+                        <ul>
+                        <li>${category}</li>
+                        </ul>
                 </div>
                 <div class="entry-meta">
                         <ul>
