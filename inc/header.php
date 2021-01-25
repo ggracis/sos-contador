@@ -59,10 +59,19 @@
             </li>
             <li class="menu-item">
               <a
-                href="https://www.sos-contador.com/2017/07/11/una-sesion-tipica-de-preguntas-y-respuestas/"
+                target="_blank" 
+				href="https://www.sos-contador.com/2017/07/11/una-sesion-tipica-de-preguntas-y-respuestas"
                 class="menu-link"
               >
                 <div>FAQs</div>
+              </a>
+            </li>
+            <li class="menu-item">
+              <a
+                href="https://www.sos-contador.com/bot-contador"
+                class="menu-link"
+              >
+                <div>BOT-Contador</div>
               </a>
             </li>
             <li class="menu-item">
@@ -76,7 +85,7 @@
             </li>
             <li class="menu-item">
               <a
-                href="https://www.sos-contador.com/blog/"
+                href="https://www.sos-contador.com/blog"
                 class="menu-link"
               >
                 <div>Blog</div>
@@ -84,7 +93,7 @@
             </li>
             <li class="menu-item">
               <a
-                href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                href="https://soft.sos-contador.com/?accion=registro&fuente=<?php echo $_GET['fuente']?>"
                 style="
                   font-size: 1.2em !important;
                   font-family: 'DIN-Light';
@@ -95,42 +104,47 @@
               >
             </li>
             <li class="menu-item">
-              <a href="https://soft.sos-contador.com/web/" class="menu-link">
+              <a href="https://soft.sos-contador.com/?fuente=<?php echo $_GET['fuente']?>" class="menu-link">
                 <div>INGRESÁ</div>
               </a>
             </li>
             <li class="menu-item">
               <div class="widget clearfix">
                 <a
-                  href="https://www.facebook.com/SOScontador/"
+                  target="_blank" 
+				  href="https://www.facebook.com/SOScontador"
                   class="menu-icono social-icon si-small si-rounded si-facebook"
                 >
                   <i class="icon-facebook"></i>
                   <i class="icon-facebook"></i>
                 </a>
                 <a
-                  href="https://twitter.com/soscontador"
+                  target="_blank" 
+				  href="https://twitter.com/soscontador"
                   class="menu-icono social-icon si-small si-rounded si-twitter"
                 >
                   <i class="icon-twitter"></i>
                   <i class="icon-twitter"></i>
                 </a>
                 <a
-                  href="https://www.instagram.com/soscontador/"
+                  target="_blank" 
+				  href="https://www.instagram.com/sos.contador.arg"
                   class="menu-icono social-icon si-small si-rounded si-instagram"
                 >
                   <i class="icon-instagram"></i>
                   <i class="icon-instagram"></i>
                 </a>
                 <a
-                  href="https://www.youtube.com/c/InfoSOSContador/featured"
+                  target="_blank" 
+				  href="https://www.youtube.com/watch?v=tEH4TByKepk&list=PLTYU-JdytXp_FBf7fXbNq36I_hDoacR_z"
                   class="menu-icono social-icon si-small si-rounded si-youtube"
                 >
                   <i class="icon-youtube"></i>
                   <i class="icon-youtube"></i>
                 </a>
                 <a
-                  href="https://www.linkedin.com/company/sos-contador/"
+                  target="_blank"
+				  href="https://www.linkedin.com/company/sos-contador"
                   class="menu-icono social-icon si-small si-rounded si-linkedin"
                 >
                   <i class="icon-linkedin"></i>

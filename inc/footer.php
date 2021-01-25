@@ -22,7 +22,7 @@
 									<address>
 										<p>- Términos y Condiciones</p>
 										<p>- Defensa al Consumidor</p>
-										<p><a href="http://defensadelconsumidor.buenosaires.gov.ar/">- Consultas y/o Denuncias</a></p><br>
+										<p><a target="_blank" href="http://defensadelconsumidor.buenosaires.gov.ar">- Consultas y/o Denuncias</a></p><br>
 										<br>
 										
 									</address>
@@ -51,7 +51,7 @@
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://www.sos-contador.com/blog/">- Blog</a>
+															<a href="https://www.sos-contador.com/blog">- Blog</a>
 														</div>
 													</div>
 												</div>
@@ -69,7 +69,7 @@
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://www.sos-contador.com/2017/07/11/una-sesion-tipica-de-preguntas-y-respuestas/">- Preguntas Frecuentes </a>
+															<a href="https://www.sos-contador.com/2017/07/11/una-sesion-tipica-de-preguntas-y-respuestas">- Preguntas Frecuentes </a>
 														</div>
 													</div>
 												</div>
@@ -78,7 +78,7 @@
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente=">- Registrate</a>
+															<a href="https://soft.sos-contador.com/?accion=registro&fuente=<?php echo $_GET['fuente']?>">- Registrate</a>
 														</div>
 													</div>
 												</div>
@@ -87,7 +87,7 @@
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://soft.sos-contador.com/web/">- Ingresar</a>
+															<a href="https://soft.sos-contador.com/?fuente=<?php echo $_GET['fuente']?>">- Ingresar</a>
 														</div>
 													</div>
 												</div>
@@ -99,29 +99,29 @@
 
 							<div>
 
-								<a href="https://www.facebook.com/SOScontador/" class="social-icon si-small si-rounded si-facebook">
+								<a href="https://www.facebook.com/SOScontador" class="social-icon si-small si-rounded si-facebook">
 									<i class="icon-facebook"></i>
 									<i class="icon-facebook"></i>
 								</a>
 
-								<a href="https://twitter.com/sos.contador.arg" class="social-icon si-small si-rounded si-twitter">
+								<a target="_blank" href="https://twitter.com/soscontador" class="social-icon si-small si-rounded si-twitter">
 									<i class="icon-twitter"></i>
 									<i class="icon-twitter"></i>
 								</a>
 
-								<a href="https://www.instagram.com/soscontador/" class="social-icon si-small si-rounded si-instagram">
+								<a target="_blank" href="https://www.instagram.com/sos.contador.arg" class="social-icon si-small si-rounded si-instagram">
 									<i class="icon-instagram"></i>
 									<i class="icon-instagram"></i>
 								</a>
 
 								
-								<a href="https://www.youtube.com/channel/UCJEfVpPqPsW7ewqR_uRxohQ" class="social-icon si-small si-rounded si-youtube">
+								<a target="_blank" href="https://www.youtube.com/watch?v=tEH4TByKepk&list=PLTYU-JdytXp_FBf7fXbNq36I_hDoacR_z" class="social-icon si-small si-rounded si-youtube">
 									<i class="icon-youtube"></i>
 									<i class="icon-youtube"></i>
 								</a>
 
 																
-								<a href="https://www.linkedin.com/company/sos-contador" class="social-icon si-small si-rounded si-linkedin">
+								<a target="_blank" href="https://www.linkedin.com/company/sos-contador" class="social-icon si-small si-rounded si-linkedin">
 									<i class="icon-linkedin"></i>
 									<i class="icon-linkedin"></i>
 								</a>

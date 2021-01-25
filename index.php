@@ -7,7 +7,7 @@
 	<div id="wrapper" class="clearfix">
 
 		<!-- Header -->
-        <?php include 'inc/header.html';?> 
+        <?php include 'inc/header.php';?> 
 		<!-- #header end -->
 
 		<!-- Slider
