@@ -27,8 +27,8 @@ require 'phpmailer/src/SMTP.php';
 $toemails = array();
 
 $toemails[] = array(
-				'email' => 'contacto@sos-contador.com', // Your Email Address
-				'name' => 'SOS-Contador' // Your Name
+				'email' => 'info@sos-contador.com', // Your Email Address
+				'name' => 'Info SOS-Contador' // Your Name
 			);
 
 
@@ -38,7 +38,8 @@ $toemails[] = array(
 
 $fromemail = array(
 				'email' => 'contacto@sos-contador.com', // Company's Email Address (preferably currently used Domain Name)
-				'name' => 'SOS-Contador' // Company Name
+				'name' => 'SOS-Contador', // Company Name
+				'phone' => 'S/D' // Company Phone
 			);
 
 
@@ -67,10 +68,10 @@ $mail = new PHPMailer();
 ---------------------------------------------------*/
 
 $message = array(
-	'success'			=> 'Hemos recibido <strong> correctamente </strong> su mensaje y nos pondremos en contacto con usted lo antes posible.',
-	'error'				=> 'El correo electrónico <strong> no se pudo </strong> enviar debido a un error inesperado. Por favor, inténtelo de nuevo más tarde.',
-	'error_bot'			=> '¡Bot detectado! ¡No se pudo procesar el formulario! ¡Inténtalo de nuevo!',
-	'error_unexpected'	=> 'Se produjo un <strong> error inesperado </strong>. Por favor, inténtelo de nuevo más tarde.',
+	'success'			=> 'Hemos recibido <strong> correctamente </strong> tu mensaje y nos pondremos en contacto lo antes posible.',
+	'error'				=> 'El correo electrónico <strong> no se pudo </strong> enviar debido a un error inesperado. Por favor, intentalo de nuevo más tarde.',
+	'error_bot'			=> '¡Bot detectado! No se pudo procesar el formulario, intentalo de nuevo',
+	'error_unexpected'	=> 'Se produjo un <strong> error inesperado </strong>. Por favor, intentalo de nuevo más tarde.',
 	'recaptcha_invalid'	=> 'Captcha not Validated! Please Try Again!',
 	'recaptcha_error'	=> 'Captcha not Submitted! Please Try Again.'
 );
@@ -203,8 +204,8 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
 	$ar_footer	= !empty( $submits['ar_footer'] ) ? $submits['ar_footer'] : 'Copyrights &copy; ' . date('Y') . ' <strong>SemiColonWeb</strong>. All Rights Reserved.';
 
-	$mail->Subject = !empty( $submits['subject'] ) ? $submits['subject'] : 'Contacto desde la web SOS-Contador';
-	$mail->SetFrom( $fromemail['email'] , $fromemail['name'] );
+	$mail->Subject = !empty( $submits['subject'] ) ? $submits['subject'] : 'Contacto desde SOS-Contador, la web';
+	$mail->SetFrom( $fromemail['email'] , $fromemail['name'] , $fromemail['phone'] );
 
 	if( !empty( $replyto ) ) {
 		if( count( $replyto ) > 1 ) {

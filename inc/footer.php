@@ -134,7 +134,7 @@
 
 							<div class="widget quick-contact-widget form-widget clearfix">
 
-								<h4>ENVIAR MENSAJE</h4>
+								<h4>CONTACTANOS</h4>
 
 								<div class="form-result"></div>
 
@@ -157,6 +157,12 @@
 											<div class="input-group-text"><i class="icon-email2"></i></div>
 										</div>
 										<input type="text" class="required form-control email" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Dirección de Email">
+									</div>
+									<div class="input-group mx-auto">
+										<div class="input-group-prepend">
+											<div class="input-group-text"><i class="icon-phone"></i></div>
+										</div>
+										<input type="text" class="form-control" id="quick-contact-form-phone" name="quick-contact-form-phone" value="" placeholder="Teléfono">
 									</div>
 									<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Mensaje"></textarea>
 									<input type="text" class="d-none" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="">
