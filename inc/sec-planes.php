@@ -58,7 +58,7 @@
                             </ul>
                         </div>
                         <div class="pricing-action">
-                            <a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                            <a href="https://soft.sos-contador.com/?accion=registro&fuente="
                                 class="btn btn-danger btn-lg">REGISTRATE</a>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                             </ul>
                         </div>
                         <div class="pricing-action">
-                            <a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                            <a href="https://soft.sos-contador.com/?accion=registro&fuente="
                                 class="btn btn-danger btn-lg">REGISTRATE</a>
                         </div>
                     </div>
@@ -185,7 +185,7 @@
                             </ul>
                         </div>
                         <div class="pricing-action">
-                            <a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                            <a href="https://soft.sos-contador.com/?accion=registro&fuente="
                                 class="btn btn-danger btn-lg">REGISTRATE</a>
                         </div>
                     </div>
@@ -249,7 +249,7 @@
                             </ul>
                         </div>
                         <div class="pricing-action">
-                            <a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                            <a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente=<?php echo $_GET['fuente']?>"
                                 class="btn btn-danger btn-lg">REGISTRATE</a>
                         </div>
                     </div>
@@ -313,7 +313,7 @@
                             </ul>
                         </div>
                         <div class="pricing-action">
-                            <a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                            <a href="https://soft.sos-contador.com/?accion=registro&fuente="
                                 class="btn btn-danger btn-lg">REGISTRATE</a>
                         </div>
                     </div>
@@ -377,7 +377,7 @@
                             </ul>
                         </div>
                         <div class="pricing-action">
-                            <a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                            <a href="https://soft.sos-contador.com/?accion=registro&fuente="
                                 class="btn btn-danger btn-lg">REGISTRATE</a>
                         </div>
                     </div>

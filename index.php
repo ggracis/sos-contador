@@ -12,7 +12,7 @@
 
 		<!-- Slider
 		============================================= -->
-        <?php include 'inc/sec-slider.html';?> 
+        <?php include 'inc/sec-slider.php';?> 
         <?php include 'inc/sec-marquesina.html';?>   
         <!-- #slider end -->
 
@@ -22,8 +22,8 @@
 			<div class="content-wrap p-0">
                 <?php include 'inc/sec-como_funciona.html';?> 
                 <?php include 'inc/sec-funcionalidades.html';?>
-                <?php include 'inc/sec-empeza_hoy.html';?> 
-                <?php include 'inc/sec-planes.html';?>   
+                <?php include 'inc/sec-empeza_hoy.php';?> 
+                <?php include 'inc/sec-planes.php';?>   
                 <?php include 'inc/sec-clientes.html';?> 
                 <?php include 'inc/sec-noticias.html';?> 
                 <?php include 'inc/sec-conoce_nuestros_planes.html';?>                 

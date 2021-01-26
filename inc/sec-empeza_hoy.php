@@ -26,7 +26,7 @@
 					Filosofía de carga única -> automatizaciones -> múltiples reportes
 					</span>
                 <div>
-                    <a href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                    <a href="https://soft.sos-contador.com/?accion=registro&fuente=<?php echo $_GET['fuente']?>"
                         class="button button-rounded button-reveal button-large button-red text-right">REGISTRATE</a>
                 </div>
             </div>

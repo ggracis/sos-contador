@@ -38,13 +38,13 @@
             </h3>
             <div class="center">
               <a
-                href="https://soft.sos-contador.com/web/default.asp?accion=registro&fuente="
+                href="https://soft.sos-contador.com/?accion=registro&fuente=<?php echo $_GET['fuente']?>"
                 class="button button-fill button-reveal button-xlarge button-red text-right"
                 style="color: #fff; font-weight: 100; font-family: 'DIN-GLight'"
                 >REGISTRATE</a
               >
               <a
-                href="https://soft.sos-contador.com/web/"
+                href="https://soft.sos-contador.com/?fuente=<?php echo $_GET['fuente']?>"
                 class="button button-border button-reveal button-large button-light text-right"
                 style="font-size: 1.2em; font-weight: 700"
                 >INGRESÁ</a
